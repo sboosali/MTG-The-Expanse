@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		topcheat; 
+	time_created: 2025-10-19 20:05:27
+	time_modified: 2025-10-19 20:08:17
+	casting_cost: 3R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Discover a noncreature card. You may cast it without paying its mana cost instead of putting it into your hand. <i-auto>(Exile cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom in a random order.)</i-auto>
+		<kw-A><nospellcheck><key>Redound</key></nospellcheck><atom-reminder-custom> <i-auto>(If you cast this spell not from exile, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

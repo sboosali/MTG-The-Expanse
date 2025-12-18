@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2025-10-05
+	has_styling: false
+	notes:
+		ok;
+		blink, twinner; performer; 
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2025-10-16 23:23:57
+	name: The Dust Runners
+	casting_cost: 2R
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text: <kw-A><i-auto><nospellcheck><key>Sublime</key></nospellcheck></i-auto></kw-A> — Whenever you cast a spell not from hand, choose another target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> artifact and/or creature. For each, create a token that’s a copy of it, except it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and isn’t legendary. Sacrifice them at the beginning of the next end step.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: S.N.T._drw
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

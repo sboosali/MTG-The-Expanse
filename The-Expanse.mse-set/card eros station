@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		apply_custom_fonts: yes
+		custom_name_font: Protomolecule
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		ok;
+		multi-ramp; 
+	time_created: 2025-10-01 21:02:24
+	time_modified: 2025-10-08 11:22:49
+	name: Eros Station
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Station</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-A><i-auto><nospellcheck><key>Extensive</key></nospellcheck></i-auto></kw-A> — Add <sym>U</sym> for each <kw-a><nospellcheck><key>super and/or card type</key></nospellcheck></kw-a> among cards in your graveyard, then lose <sym>UU</sym><sym>U</sym>.
+	flavor_text: <i-flavor><error-spelling:en_US>Seteshang</error-spelling:en_US> <error-spelling:en_US>Erosh</error-spelling:en_US>, once the jewel of The Belt.</i-flavor>
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

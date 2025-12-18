@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		reycler; 
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2025-10-19 19:45:04
+	casting_cost: 2B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<sym-auto>B</sym-auto>: Until end of turn, this creature gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		<kw-a><nospellcheck><key>Resuscitate <param-cost><sym-auto>0</sym-auto></param-cost></key></nospellcheck></kw-a>. Resuscitate only if a card was put into your graveyard <i-auto>(from anywhere)</i-auto> this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: The Expanse (S)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

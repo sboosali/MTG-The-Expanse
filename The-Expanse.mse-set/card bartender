@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		big;
+	time_created: 2025-09-20 15:40:50
+	time_modified: 2025-10-13 21:57:47
+	name: Bartender
+	casting_cost: G
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Service-Worker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When this creature enters, discover a land card. <i-auto>(Exile cards from the top of your library until you exile a land. Put it into your hand and the rest on the bottom in a random order.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

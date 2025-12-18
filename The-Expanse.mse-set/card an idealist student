@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		tutor; colors-matter; big;
+	time_created: 2025-10-04 17:37:54
+	time_modified: 2025-10-19 08:59:15
+	name: An Idealist Student
+	casting_cost: 2G
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Student</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		When this creature enters, you may search your library for a card whose color identity includes white, blue, black, or red. If you do, reveal it, put it into your hand, then shuffle. <i-auto>(For example, a card that costs <sym>1G</sym> with “<kw-a><nospellcheck><key>Kicker <param-cost><sym>U</sym></param-cost></key></nospellcheck></kw-a>” in its rules text has a green–blue i <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>dentity</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.)</i-auto>
+		Whenever you cast a spell, put a +1/+1 counter on this creature for each nongreen color in that spell’s color identity.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Mike Mahle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

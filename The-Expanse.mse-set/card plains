@@ -1,0 +1,23 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2023-08-15
+	has_styling: false
+	notes: 
+	time_created: 2025-10-07 19:42:14
+	time_modified: 2025-10-07 19:43:19
+	name: Plains
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	illustrator: NASA
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

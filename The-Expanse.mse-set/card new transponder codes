@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: ok;
+	time_created: 2025-10-03 17:29:41
+	time_modified: 2025-10-13 22:29:24
+	name: New Transponder Codes
+	casting_cost: W
+	image: image51.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Blink</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-1><nospellcheck><key>Flicker</key></nospellcheck> target <kw-1><nospellcheck><key>friendly</key></nospellcheck> nonland permanent.<blob><atom-reminder-core> <i-auto>(Exile it, then return it to the battlefield under its owner’s control.</atom-reminder-core></kw-1><moved><atom-reminder-core> Ones you and teammates control are friendly.)</i-auto></atom-reminder-core></kw-1></moved></blob>
+		<i><kw-A><i-auto><nospellcheck><key>Subliminal</key></nospellcheck></i-auto></kw-A> —</i> If this spell wasn’t cast from hand, instead <kw-a><nospellcheck><key>flicker</key></nospellcheck></kw-a> target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Earther</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and/or target Martian and/or target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Belter</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<kw-1><nospellcheck><key>Rebound</key></nospellcheck><atom-reminder-expert> <i-auto>(If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</i-auto></atom-reminder-expert></kw-1>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	illustrator: The Expanse (S3)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

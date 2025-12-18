@@ -1,0 +1,51 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: three
+		snap_chapter_to_box: 1,2,2,3
+		chapter_divider_coordinates: 
+		reminder_coordinate: 
+		separated_text_size: 
+		reminder_text_size: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		;
+		removal; life-loss; criminal; 
+	time_created: 2025-09-20 16:14:59
+	time_modified: 2025-10-01 20:55:24
+	name: The Butcher of Anderson Station
+	casting_cost: 2BB
+	image: image37.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Saga</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)</i-auto>
+	rule_text: 
+	flavor_text: <i-flavor>​</i-flavor>
+	level_1_text: <i>Massacre —</i> Destroy target opposing creature or battle.
+	level_2_text: <kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+	level_3_text: <i>Treason —</i> If this creature has attacked, target opponent loses half their life, rounded down.
+	power: 5
+	toughness: 5
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)</i-auto>
+		<i>Massacre —</i> Destroy target opposing creature or battle.
+		<kw-0><nospellcheck><key>Surveil <param-number>2</param-number></key></nospellcheck></kw-0>.
+		<i>Treason —</i> If this creature has attacked, target opponent loses half their life, rounded down.

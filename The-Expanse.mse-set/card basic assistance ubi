@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		multi-token, draw-engine, big; 
+	time_created: 2025-10-19 10:20:57
+	time_modified: 2025-10-19 11:36:32
+	name: “Basic Assistance” UBI
+	casting_cost: 1U
+	image: image95.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <i>Semi-<kw-A><i-auto><nospellcheck><key>Expansive</key></nospellcheck></i-auto></kw-A> — </i>At the beginning of each end step, if you’ve cast both a creature spell and either an instant, sorcery, artifact, enchantment, or battle spell this turn, create a <kw-0><nospellcheck><key>Raw Data toke<param-*s>n</param-*s></key></nospellcheck></kw-0>, a <kw-0><nospellcheck><key>Flare toke<param-*s>n</param-*s></key></nospellcheck></kw-0>, and an <kw-0><nospellcheck><key>H2O toke<param-*s>n</param-*s></key></nospellcheck></kw-0>. <i-auto>(They’re a: Data artifact with “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this token: Draw a card.”; Flare artifact with “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this token: Choose target nonland permanent. Put a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on it if tapped. Tap it otherwise.”; and H2O artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add <sym-auto>CC</sym-auto>.” and “<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Munir de Vries
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

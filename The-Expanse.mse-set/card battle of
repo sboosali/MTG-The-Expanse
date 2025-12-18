@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-battles
+	stylesheet_version: 2025-01-21
+	has_styling: false
+	notes: 
+	time_created: 2025-09-20 21:35:21
+	time_modified: 2025-10-08 10:41:49
+	name: Battle of
+	casting_cost: 1
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-battle>Clash</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(Opponents can attack your Clashes. Remove a defense counter each upkeep.)</i-auto>
+		At the beginning of combat on your turn, X , where X is this battle’s <i-auto>(current)</i-auto> defense.
+	flavor_text: <i-flavor></i-flavor>
+	loyalty: 4
+	power: 4
+	toughness: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

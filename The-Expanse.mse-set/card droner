@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		performer; 
+	time_created: 2025-10-02 09:24:52
+	time_modified: 2025-10-02 11:20:10
+	name: DRONER
+	casting_cost: 2UU
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian </word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Hacker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-A><i-auto><nospellcheck><key>Tech</key></nospellcheck></i-auto></kw-A> — At the beginning of each combat, choose target <kw-A><nospellcheck><key>friendly rig</key></nospellcheck>. Until end of turn, each noncreature permanent in that rig becomes a 4/3 Drone creatures with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> in addition to its other types.<atom-reminder-action> <i-auto>(Your team’s rig consists of up to one of each subtype, excluding basic land types and creature types.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

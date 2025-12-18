@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2025-09-30 15:25:54
+	time_modified: 2025-10-01 14:33:15
+	card_color: green
+	name: Logistic Strat
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Strat</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Whenever you <kw-A><nospellcheck><key>finance</key></nospellcheck> a spell, <kw-A><nospellcheck><key>amass <param-name>Humans</param-name> <param-number>1</param-number></key></nospellcheck>. That Army gains <kw-1><nospellcheck><key>daunting</key></nospellcheck><blob> until end of turn.<atom-reminder-custom> <i-auto>(Spells cast by spending at least four mana or with mana value 4+ are financed.</atom-reminder-custom></kw-A><atom-reminder-custom> That creature can’t be blocked by creatures with lesser power.</atom-reminder-custom></kw-1><moved><atom-reminder-action> To amass <param-name>Humans</param-name> <param-number>1</param-number>, put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Human</param-name>. If you don’t control an Army, create a 0/0 <param-name>Human</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A></moved></blob>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

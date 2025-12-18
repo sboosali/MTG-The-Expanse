@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		blink, twinner; performer; 
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2025-10-17 12:44:10
+	name: The Donnager Crew
+	casting_cost: 2RR
+	image: image92.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Sailor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<sym>T</sym>: <kw-1><nospellcheck><key>Recruit</key></nospellcheck> another target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> creature. This ability costs an additional <sym>1</sym> to activate for each <i-auto>(other)</i-auto> time you’ve activated it this turn.<atom-reminder-custom> <i-auto>(Create a token that’s a copy of it, except it has haste and isn’t legendary. Sacrifice it at the beginning of the next end step.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: North Front Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

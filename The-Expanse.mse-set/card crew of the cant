@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		diverse; fix;
+	time_created: 2025-10-04 12:06:15
+	time_modified: 2025-10-10 21:49:30
+	name: Crew of the Cant
+	casting_cost: 2
+	image: image43.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>H2O</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		This card is also an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Earther</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Martian, and <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Belter</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
+		<sym-auto>T</sym-auto>, Sacrifice this creature: Add <sym-auto>CC</sym-auto>.
+	flavor_text: <i-flavor>There were over 50 <error-spelling:en_US>crewmates</error-spelling:en_US> on The Canterbury, from all across Sol: Amos Burton & Jim Holden were <error-spelling:en_US>Earthers</error-spelling:en_US>, with Shed <error-spelling:en_US>Garvery</error-spelling:en_US> from Luna, while Alex <error-spelling:en_US>Kamal</error-spelling:en_US> was a Martian and Naomi <error-spelling:en_US>Nagata</error-spelling:en_US> a <error-spelling:en_US>Belter</error-spelling:en_US>.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		multi-regrowth, reanim; big; 
+	time_created: 2025-10-19 20:57:30
+	time_modified: 2025-10-19 21:05:05
+	name: Let's Get Off This Rock
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Kicker <param-cost><sym-auto>4B</sym-auto></param-cost></key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Diverse </key></nospellcheck></i-auto></kw-A>— Choose target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Earther</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and/or target Martian and/or target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Belter</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> card in your graveyard.
+		Return those cards to your hand. If this spell was kicked, instead return each of them to the battlefield with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it. <i-auto>(If a permanent with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it would die, exile it instead.)</i-auto>
+		Exile this card if more than one card was returned this way.
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

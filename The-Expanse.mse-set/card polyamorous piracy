@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		storm; combo; wincon; 
+	time_created: 2025-10-15 09:44:13
+	time_modified: 2025-10-15 09:48:31
+	name: Polyamorous Piracy
+	casting_cost: 1B
+	image: image76.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-A><i-auto><nospellcheck><key>Expansive</key></nospellcheck></i-auto></kw-A> — Create a <kw-A><nospellcheck><key>Pirate toke<param-*s>n</param-*s></key></nospellcheck> for each super type and each card type among spells you’ve cast and lands you’ve played this turn.<atom-reminder-custom> <i-auto>(It’s a 3/2 black Pirate creature with lifelink, trample, and haste. Sacrifice it at the beginning of the next end step.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: The Expanse (S5)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

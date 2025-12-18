@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		free; rx, burn-hate; 
+		criminal; 
+	time_created: 2025-10-01 08:37:52
+	time_modified: 2025-10-13 18:03:15
+	name: Al-Halub Exocolonist
+	casting_cost: 2WW
+	image: image69.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		If an opposing source would deal X noncombat damage, you may instead prevent that damage. When you do, this creature deals X damage to any opposing target. Do this only once each turn.
+		<kw-1><nospellcheck><key>Accelerate—<param-cost>Discard a white card or two Plains</param-cost>.</key></nospellcheck><atom-reminder-> <i-auto>(You may cast this spell for its accelerate cost any time you could cast an instant. If you do, it can’t block this turn and is sacrificed at the beginning of your next upkeep.)</i-auto></atom-reminder-></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Reza Afshar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

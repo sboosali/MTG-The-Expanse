@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2025-09-28 13:36:51
+	name: *SCRATCH*
+	casting_cost: 2
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en></word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-1><nospellcheck><key>Armed <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(This enters with <param-number>a</param-number> +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-1><nospellcheck><key>Armed <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(This enters with <param-number>two</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-A><nospellcheck><key>loot <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Draw <param-number>a</param-number> card, then discard <param-number>a</param-number> card.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>loot <param-number>1</param-number></key></nospellcheck> and gain 1 life.<atom-reminder-action> <i-auto>(To loot <param-number>1</param-number>, draw <param-number>a</param-number> card, then discard <param-number>a</param-number> card.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>rummage <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Discard up to <param-number>one</param-number> card, then draw that many cards.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>rummage <param-number>2</param-number></key></nospellcheck> and gain 1 life.<atom-reminder-action> <i-auto>(To rummage <param-number>2</param-number>, discard up to <param-number>two</param-number> cards, then draw that many cards.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>peek <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top <param-number>one</param-number> cards of your library. Put up to one of them back on top and the rest on the bottom in a random order.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>peek <param-number>2</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Look at the top <param-number>two</param-number> cards of your library. Put up to one of them back on top and the rest on the bottom in a random order.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 0
+	illustrator: The Expanse (S)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

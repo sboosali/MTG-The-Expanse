@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		small; criminal; 
+	time_created: 2025-10-01 20:09:19
+	time_modified: 2025-10-04 09:06:38
+	name: Quantum Decryption
+	casting_cost: B
+	image: image38.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Discard</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Target opponent reveals their hand. You choose an instant, sorcery, artifact, enchantment, or battle card from it. That player discards that card.
+	flavor_text: <i-flavor>Samara Rosenberg: “It’s level four <error-spelling:en_US>MCRN</error-spelling:en_US> encryption. Poke the wrong node, you’d wipe out all the data.”</i-flavor>
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

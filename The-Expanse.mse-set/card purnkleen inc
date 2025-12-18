@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-bigtext
+	stylesheet_version: 2025-10-08
+	has_styling: false
+	notes:
+		ok;
+		blink; for-tech; performer, criminal; 
+	time_created: 2025-11-09 15:09:56
+	time_modified: 2025-11-09 16:05:36
+	name: <i>Pur’n’Kleen</i>, inc.
+	casting_cost: 1W
+	image: image98.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When this creature enters, choose one or more. If all modes are chosen <i-auto>(with valid targets)</i-auto>, copy this ability. You may choose new targets for the copy.
+		<li><bullet>• </bullet>Target player <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>scries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> 2 and gains 2 life. 
+		</li><li><bullet>• </bullet>Put a +1/+1 counter on another target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> creature.
+		</li><li><bullet>• </bullet>Put a defense counter on target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> <kw-0><nospellcheck><key>Clash</key></nospellcheck></kw-0>.
+		</li><li><bullet>• </bullet>Remove a lore counter from target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> Saga.
+		</li><li><bullet>• </bullet>Put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on target tapped opposing artifact or creature.
+		</li><li><bullet>• </bullet>Tap target untapped opposing permanent.
+		</li><li><bullet>• </bullet>Exile target card from a graveyard.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

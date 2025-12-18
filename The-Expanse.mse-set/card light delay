@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		small; 
+	time_created: 2025-09-20 15:41:07
+	time_modified: 2025-09-29 12:56:38
+	name: Light Delay
+	casting_cost: 1U
+	image: image19.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Counter</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Counter target spell. If countered this way, its owner <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>quickdraws</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> it instead of putting it into their graveyard. <i-auto>(They exile it face-down. Until their next turn, they may look at and cast it from exile. If they don’t, they turn it face-up and it’s no longer “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>quickdrawn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: LightTimeDelay (bandcamp)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
