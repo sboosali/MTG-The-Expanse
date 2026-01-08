@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		dorkfall; any-burn, self-pump; 
+		eg "The Nauvoo" combo.
+		cf "Pyrogoyf".
+	time_created: 2026-01-02 09:21:45
+	time_modified: 2026-01-02 09:38:10
+	name: Post-Katoa Protomolecule
+	casting_cost: 2R
+	image: image71.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		Once per Turn — <i>Macroscopic Quantum-Entanglement —</i> Whenever another <kw-1><nospellcheck><key>friendly</key></nospellcheck> <kw-A><nospellcheck><key>powered</key></nospellcheck> permanent enters, you may have it deal X damage to any target. If you do, this creature gets +X/+0 until end of turn. X is the greatest among that permanent’s current or printed power or toughness.<blob><atom-reminder-core> <i-auto>(Anything you or a teammate controls is friendly.</atom-reminder-core></kw-1><moved><atom-reminder-custom> Anything with a printed power/toughness is powered.)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor>“Bandwidth and distance irrelevant… Limitations require input redundancy…”</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 0
+	toughness: 4
+	illustrator: The Expanse (S3)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

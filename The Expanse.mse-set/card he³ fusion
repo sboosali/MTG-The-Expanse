@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		2-ritual, fix; vertical-growth; uncounterable, 5-spectral; 
+		cf "Channel the Suns"; cf "Stonewood Invocation".
+	time_created: 2025-12-11 18:21:56
+	time_modified: 2025-12-28 16:42:22
+	name: He³ Fusion
+	casting_cost: 2G
+	image: image97
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Mana</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-1><nospellcheck><key>Split second</key></nospellcheck><atom-reminder-expert> <i-auto>(As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)</i-auto></atom-reminder-expert></kw-1>
+		<margin:0:0:5>Choose one —</margin:0:0:5>
+		<li><bullet>• </bullet>Add <sym-auto>WUBRG</sym-auto>.
+		</li><li><bullet>• </bullet><kw-1><nospellcheck><key>Fuel up <param-number>5</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose target creature, Saga, Tool, or Clash you control. Put <param-number>five</param-number> +1/+1, lore, charge, or defense counters on it, respectively, or remove that many.)</i-auto></atom-reminder-action></kw-1></li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: North Front Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-12-11 18:21:56
+	time_modified: 2025-12-11 18:23:47
+	name: Gravitational Lensing
+	casting_cost: R
+	image: image155.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Mana</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet><i>Mirror — </i><kw-A><nospellcheck><key>Fork</key></nospellcheck> target instant or sorcery spell.<atom-reminder-custom> <i-auto>(Copy it, and you may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
+		</li><li><bullet>• </bullet><i>Prism —</i> Add <sym-auto>RR</sym-auto> or <sym-auto>WU</sym-auto>.
+		</li><li><bullet>• </bullet><i>Lens — </i>Target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> creature gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: NASA
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

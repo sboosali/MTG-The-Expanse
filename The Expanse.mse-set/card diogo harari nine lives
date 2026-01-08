@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		multi-sackable; vertical-growth; 
+	time_created: 2025-12-29 09:59:54
+	time_modified: 2025-12-30 08:38:09
+	name: Diogo Harari, <i>Nine Lives</i>
+	casting_cost: 1B
+	card_symbol: tombstone
+	image: image185.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Survivor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		This creature gets +1/+1 for each poison counter you have.
+		<kw-0><nospellcheck><key>Resuscitate—<param-cost><sym>1B</sym>, Scrounge </sym>1<sym>, Get a poison counter</param-cost>.</key></nospellcheck></kw-0> <i-auto>(You may cast this permanent from your graveyard for its resuscitate cost. It enters with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a>. To scrounge </sym>1<sym>, exile another card from your graveyard. A player with ten or more poison counters loses the game.)</i-auto>
+		This creature resuscitates tapped and without a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.
+	flavor_text: <i-flavor>“All this just bonus time for me, <error-spelling:en_US>sasa</error-spelling:en_US> <error-spelling:en_US>ke</error-spelling:en_US>?”</i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

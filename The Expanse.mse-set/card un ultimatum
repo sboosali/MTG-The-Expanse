@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		541, freecast; life-drain; big-spell, cheap-mode; 
+		cf. "Ultimatum".
+	time_created: 2025-11-30 15:23:32
+	time_modified: 2025-12-05 11:49:52
+	name: UN Ultimatum
+	casting_cost: 6BB
+	image: image119.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i>Rejected —</i> <kw-A><nospellcheck><key>Expropriate the top <param-one_word>eight</param-one_word> cards of</key></nospellcheck> target opponent’s library.<atom-reminder-action> <i-auto>(Exile them face-down. You may look at and cast them from exile, and may spend mana as though it were of any type to do so.)</i-auto></atom-reminder-action></kw-A>
+		Add <sym-auto>CCCCCCCC</sym-auto>. Spend this mana only to cast spells not from your hand.
+		Until end of turn, whenever you cast a spell you don’t own, <kw-A><nospellcheck><key>drain <param-number>2</param-number> life from</key></nospellcheck> its owner.<atom-reminder-action> <i-auto>(They lose <param-number>2</param-number> life and you gain life equal to the amount lost.)</i-auto></atom-reminder-action></kw-A>
+		<i>Accepted — </i><sym>1B</sym>, Discard this card: <kw-0><nospellcheck><key>Drain <param-number>1</param-number> life from</key></nospellcheck></kw-0> target opponent and <kw-0><nospellcheck><key>expropriate the top card of</key></nospellcheck></kw-0> their library.
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Earthers</error-spelling:en_US> get to walk outside into the light, breathe pure air, look up at a blue sky… and what do they do? They look past that light, past that blue sky. They see the stars, and they think, ‘<error-spelling:en_US>Mine’</error-spelling:en_US>.”<soft-line>
+		</soft-line>—Anderson Dawes</i-flavor>
+	illustrator: Fluorescent Wolf
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

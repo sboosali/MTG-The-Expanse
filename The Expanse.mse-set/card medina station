@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-10-01 21:02:24
+	time_modified: 2025-10-01 21:08:31
+	name: Medina Station
+	image: image79
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Station</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<kw-A><i-auto><nospellcheck><key>Expansive</key></nospellcheck></i-auto></kw-A> — <sym>2</sym>, <sym>T</sym>: Add <sym>C</sym> for each <kw-a><nospellcheck><key>super and/or card type</key></nospellcheck></kw-a> among <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> permanents. <i-auto>(Ones you or a teammate control are <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a>.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Christian Ward
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

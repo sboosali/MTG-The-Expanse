@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		coerce, anti-cheap; small, criminal; 
+		cf "Inquisition of Kozilek".
+	time_created: 2025-10-01 20:09:19
+	time_modified: 2025-12-11 11:04:12
+	name: Neurenhanced Interrogation
+	casting_cost: B
+	image: image41.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Discard</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Target opponent reveals their hand. You choose a nonland card from it with mana value at most 3 or with an alternate cost <i-auto>(such as accelerate or resuscitate)</i-auto>. That player discards that card.
+	flavor_text: <i-flavor>Lopez reached into his pocket, took out a small packet of white lozenges, and popped one into his mouth. Focus drugs. He’d be watching every tic of Holden’s face during questioning. Tough to lie to.</i-flavor>
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

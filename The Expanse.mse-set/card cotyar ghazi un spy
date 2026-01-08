@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_bottom: 7
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		ok;
+		big; cheat;
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2026-01-01 16:07:50
+	name: Cotyar Ghazi, <i>UN Spy</i>
+	casting_cost: 3BB
+	image: image24.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<i>Saboteur —</i> Whenever this creature deals damage to an opponent, <kw-A><nospellcheck><key>expropriate the top <param-one_word>two</param-one_word> cards of</key></nospellcheck> their library.<atom-reminder-action> <i-auto>(Exile them face-down. You may look at and cast them from exile, and may spend mana as though it were of any type to do so.)</i-auto></atom-reminder-action></kw-A>
+		Once per Turn — As long as this creature has dealt damage to an opponent this turn, you may cast a card they own in exile that you expropriated without paying its mana cost.
+		<kw-A><nospellcheck><key>Stealth <param-cost><sym-auto>3B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Pay its stealth cost, Return an unblocked non-summoning-sick attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 4
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		show, cheat-for-LtB-EtB; 
+		cf "Flash".
+	time_created: 2025-10-08 10:53:16
+	time_modified: 2025-11-24 11:03:53
+	name: Nanovivisection
+	casting_cost: 2/UU
+	image: image70.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Y<soft-line><soft-line>ou may put a nonland permanent card from your hand onto the battlefield. If you do, sacrifice it <i-auto>(immediately)</i-auto>.</soft-line></soft-line>
+	flavor_text: <i-flavor>In a flash, the <error-spelling:en_US>Arboghast</error-spelling:en_US> and its crew blossomed into a cloud of wires and nerves, motors and organs…</i-flavor>
+	illustrator: 乱铁 @dirtyiron18
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

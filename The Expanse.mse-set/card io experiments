@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		sneak, cheat-for-combat; 
+		cf "Through the Breach".
+	time_created: 2025-10-08 10:53:16
+	time_modified: 2025-12-06 10:33:42
+	name: Io Experiments
+	casting_cost: 2/RR
+	image: image108.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Look at the top card of your library. <kw-A><nospellcheck><key>Cloak</key></nospellcheck> that card or a card from your hand.<atom-reminder-action> <i-auto>(To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward <sym>2</sym>. Turn it face up any time for its mana cost if it’s a creature card.)</i-auto></atom-reminder-action></kw-A>
+		Turn a <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> face-down permanent face up if it’s a creature or Vehicle. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and becomes a creature in addition to its other types until end of turn.
+		At the beginning of the next end step, turn that permanent face down.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

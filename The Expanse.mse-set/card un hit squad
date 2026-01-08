@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		241, murder, removal; 
+	time_created: 2025-11-19 15:16:47
+	time_modified: 2025-12-05 11:03:25
+	name: UN Hit Squad
+	casting_cost: 3B
+	image: image133.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Deadly</key></nospellcheck><atom-reminder-custom> <i-auto>(Any amount of damage this deals to a creature or battle is enough to destroy or defeat it.)</i-auto></atom-reminder-custom></kw-A>
+		When this creature enters, destroy target <kw-a><nospellcheck><key>opposing</key></nospellcheck></kw-a> creature or battle. 
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

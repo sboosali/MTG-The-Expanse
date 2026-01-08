@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		buildaround; undying, unsace; 
+	time_created: 2025-12-09 11:55:37
+	time_modified: 2025-12-29 08:31:43
+	name: Triage in Tragedy
+	casting_cost: W
+	image: image98
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Blink</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i>Flee With The Crew — </i>Choose target permanent card in your graveyard that was put there from the battlefield this turn.
+		For each card chosen this way, return it to the battlefield.
+		<i>Take On Survivors —</i> <kw-1><nospellcheck><key>Overload <param-cost><sym-auto>1WW</sym-auto></param-cost></key></nospellcheck> <atom-reminder-expert> <i-auto>(You may cast this spell for its overload cost. If you do, change “target” in its text to “each”.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text: <i-flavor><error-spelling:en_US>Champa</error-spelling:en_US>: “Now. There’s air for only 52 aboard. Children, young women, and young men. The rest will stay back. Let’s do what needs to be done.”</i-flavor>
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

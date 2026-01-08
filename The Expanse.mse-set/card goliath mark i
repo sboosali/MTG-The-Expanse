@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		free-spell; 
+	time_created: 2025-10-04 20:50:10
+	time_modified: 2025-12-06 10:34:34
+	name: Goliath Mark I
+	casting_cost: 0
+	image: image72
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When this Equipment enters, attach it to target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> creature. 
+		Equipped creature gets +1/+1.
+		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>2/W</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(Pay the equip cost: Attach to target creature you control. Equip only as a sorcery.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: JujuFe1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		mox, $0-ramp, monogreen-mana; 
+	time_created: 2025-10-03 12:41:13
+	time_modified: 2026-01-06 07:53:21
+	name: Exosolar Nickel
+	casting_cost: 2/G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mine</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym>T</sym>: Add <sym>G</sym>. Spend this mana only to cast green spells, activate abilities of green sources, or pay <sym>G</sym> costs.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: NASA
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

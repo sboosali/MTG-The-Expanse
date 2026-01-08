@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		rx; wheely; 
+		eg "It Changes Everything…" combo.
+		cf "Hullbreacher".
+	time_created: 2025-10-01 08:37:52
+	time_modified: 2026-01-06 11:22:35
+	name: Tabitha Toeava
+	casting_cost: 2U
+	transformation: instant
+	image: image75.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever an opponent draws X cards except the first drawn in each of their draw steps, <kw-A><nospellcheck><key>expropriate the top <param-one_word>X</param-one_word> cards of</key></nospellcheck> their library.<atom-reminder-action> <i-auto>(Exile them face-down. You may look at and cast them from exile, and may spend mana as though it were of any type to do so.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Persistent —</key></nospellcheck> As long as this creature has entered this turn, if an opponent would draw a card except the first drawn in each of their draw steps, instead they skip that draw and you <kw-0><nospellcheck><key>expropriate the top card of</key></nospellcheck></kw-0> their library.<atom-reminder-custom> <i-auto>(This effect continues until end of turn when this creature leaves the battlefield.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-1><nospellcheck><key>Accelerate <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-> <i-auto>(You may cast this spell for its accelerate cost any time you could cast an instant. If you do, it can’t block this turn and is sacrificed at the beginning of your next upkeep.)</i-auto></atom-reminder-></kw-1>
+		Accelerate only if an opponent controls a spell or ability <i-auto>(on the stack)</i-auto>.
+	flavor_text: <i-flavor>Europa’s most in-demand lithographer.</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Kelly Knowles
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

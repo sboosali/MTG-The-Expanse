@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-10-01 09:19:27
+	time_modified: 2025-10-01 20:51:18
+	name: Orbital Slingshot
+	casting_cost: W
+	image: image34.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Damage</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Prevent the next 5 damage that would be dealt to any <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> target this turn by a source of your choice.
+		Whenever damage is prevented this way, create that many tapped <kw-A><nospellcheck><key>Bomb toke<param-*s>ns</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(They’re artifacts with “<sym>2</sym>, <sym>T</sym>, Sacrifice this token and X other Bombs: This deals X+1 damage to any target.”)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

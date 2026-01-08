@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		multi-draw; big;
+	time_created: 2025-10-04 17:37:54
+	time_modified: 2025-10-19 09:19:32
+	name: Cybernetic Steganographer
+	casting_cost: W
+	image: image49.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Hacker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When this creature enters, create a <kw-A><nospellcheck><key>Raw Data toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s a Data artifact with “<sym>2</sym>, <sym>T</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-custom></kw-A>
+		When this creature is exiled, you may pay <sym>U</sym>. If you do, create a <kw-A><nospellcheck><key>Raw Data toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s a Data artifact with “<sym>2</sym>, <sym>T</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

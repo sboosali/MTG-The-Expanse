@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		tutor; ramp, fix; big;
+	time_created: 2025-10-04 17:37:54
+	time_modified: 2025-11-24 11:41:49
+	name: Ganymede Hydroponicist
+	casting_cost: 2G
+	image: image91.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Botanist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When this creature enters, you may search your library for a Mana card or a nonland card with an activated mana ability. If you do, reveal it, put it into your hand, then shuffle. <i-auto>(Mana abilities cannot have targets.)</i-auto>
+		<i>The ‘<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Glycine</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>kenon’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Soybean — </i>Whenever you activate a nonland permanent for mana, add <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

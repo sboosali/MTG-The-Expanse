@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		multi-looter; on-tapped, evasive; immediate, splash; 
+	time_created: 2025-12-04 10:28:01
+	time_modified: 2025-12-14 17:33:18
+	name: Ostman–Jazinski OPA
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Unblockable by</key></nospellcheck></kw-a> non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Belters</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		As long as you spent <sym>R</sym> this turn or control a Mountain, this creature has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		Whenever this creature becomes tapped, <kw-0><nospellcheck><key>loo<param-*s>t</param-*s> <param-number>X</param-number></key></nospellcheck></kw-0>, where X is its power. <i-auto>(Draw X cards, then discard that many cards.)</i-auto>
+	flavor_text: <i-flavor>“Militants responsible for a significant number of attacks on Inner Planetary military targets. Deep <error-spelling:en_US>OPA</error-spelling:en_US>.”</i-flavor>
+	power: 2
+	toughness: 2
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		weird; 
+		interact; performer, criminal; 
+	time_created: 2025-09-30 19:02:24
+	time_modified: 2025-12-28 10:21:09
+	name: col. Dr. Janus
+	casting_cost: 2GG
+	transformation: instant
+	image: image50.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Physicist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When this creature enters, choose up to two other target nonbasic permanents and/or spells. Those <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>permanents’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>spells’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> controllers <kw-A><nospellcheck><key>cloak</key></nospellcheck> them.<atom-reminder-action> <i-auto>(To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward <sym>2</sym>. Turn it face up any time for its mana cost if it’s a creature card.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

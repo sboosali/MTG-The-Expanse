@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		activation-redux, unexhaust, buildaround; semi-fix, splash; 
+		cf "Zirda, the Dawnwaker"; cf "Elvish Refueler".
+	time_created: 2025-12-11 12:24:31
+	time_modified: 2025-12-23 20:00:50
+	name: The <i>Donnager</i>
+	casting_cost: 1W
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Vehicle</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<i>Hangar Bay —</i> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> abilities you activate cost <sym>R</sym> <i-auto>(or <sym>1</sym>)</i-auto> less to activate. This effect can’t reduce the mana in that cost to less than one mana.
+		<i>Carrier Fleet —</i> During your turn, as long as you haven’t activated an exhaust ability this turn, you may activate exhaust abilities as though they haven’t been activated.
+		Crew—<sym>1</sym>. Activate only if you’ve activated an<i>(other)</i> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> ability this turn.
+	flavor_text: <i-flavor>“She’s the flagship of the <error-spelling:en_US>MCRN’s</error-spelling:en_US> Jupiter  Fleet. Quarter-million tons of bad news half a <error-spelling:en_US>klick</error-spelling:en_US> long.”</i-flavor>
+	power: 3
+	toughness: 6
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		cheaty;
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2025-12-28 10:24:49
+	name: Einstein–Rosen Bridge
+	casting_cost: 2/W2/U2/B2/R2/G
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		When this artifact enters, active scan for five cards with mana values 5, </sym>4<sym>, </sym>3<sym>, </sym>2<sym>, and </sym>1<sym>, respectively. <i-auto>(Exile cards from the top of your library until you exile one of each mana value. Put the rest on the bottom in a random order.)</i-auto>
+		When this artifact enters and at the beginning of your upkeep, you may cast one of the exiled cards without paying its mana cost. If you do, gain life equal to its mana value.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Lee Fitzgerald
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

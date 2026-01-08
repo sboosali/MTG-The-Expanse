@@ -1,0 +1,51 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: three
+		snap_chapter_to_box: 1,2,3
+		chapter_divider_coordinates: 219,289,
+		reminder_coordinate: 
+		separated_text_size: 
+		reminder_text_size: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		;
+		wrath, pillage, removal; 
+	time_created: 2025-09-20 16:14:59
+	time_modified: 2025-12-14 16:38:08
+	name: The Eros “Incident”
+	casting_cost: 3BB
+	image: image167.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Saga</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	rule_text: 
+	flavor_text: <i-flavor>​</i-flavor>
+	level_1_text: Destroy all non-Alien creatures.
+	level_2_text: Destroy up to one target <kw-a><nospellcheck><key>Station</key></nospellcheck></kw-a>.
+	level_3_text: Exile all non-Alien creature cards and <kw-a><nospellcheck><key>Station</key></nospellcheck></kw-a> cards from target player’s graveyard. <kw-0><nospellcheck><key>Amass <param-name>Aliens </sym>X<sym>, where</param-name> <param-number>X</param-number></key></nospellcheck></kw-0> is the number of cards exiled this way.
+	power: 
+	toughness: 
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		Destroy all non-Alien creatures.
+		Destroy up to one target <kw-a><nospellcheck><key>Station</key></nospellcheck></kw-a>.
+		Exile all non-Alien creature cards and <kw-a><nospellcheck><key>Station</key></nospellcheck></kw-a> cards from target player’s graveyard. <kw-0><nospellcheck><key>Amass <param-name>Aliens </sym>X<sym>, where</param-name> <param-number>X</param-number></key></nospellcheck></kw-0> is the number of cards exiled this way.

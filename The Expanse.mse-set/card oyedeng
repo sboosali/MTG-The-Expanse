@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		stifle, anti-cheat; 
+	time_created: 2025-11-19 15:28:50
+	time_modified: 2025-11-19 15:37:04
+	name: Oyedeng
+	casting_cost: 1B
+	card_symbol: none
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Destroy</word-list-spell><atom-sep> </atom-sep><word-list-spell>Counter</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Destroy target creature.
+		If you spent <sym>G</sym> this turn or control a Forest, instead counter all triggered and activated abilities from creature sources, then destroy that creature. <i-auto>(Mana abilities cannot be responded to.)</i-auto>
+	flavor_text: <i-flavor>“Goodbye.”</i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

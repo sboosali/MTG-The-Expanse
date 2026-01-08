@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		241; 
+	time_created: 2025-10-08 10:53:16
+	time_modified: 2025-12-11 19:42:31
+	name: Experimental Iteration
+	casting_cost: 1R
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Draw</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Look at the top three cards of your library. <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Quickdraw</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> one of them. Put one on the bottom of your library and one on top. Then draw a card. <i-auto>(To <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>quickdraw</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> a card, exile it face-down. Until your next turn, you may look at and play it from exile. If you don’t, turn it face-up and it’s no longer “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>quickdrawn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 乱铁 @dirtyiron18
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

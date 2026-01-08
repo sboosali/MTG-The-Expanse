@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		topdeck-freecaster, cheat; big-activation, mana-sink; cantrip; 
+	time_created: 2025-10-04 20:50:10
+	time_modified: 2026-01-04 16:12:05
+	name: Eros Radio Feed
+	casting_cost: 1R
+	image: image166.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Data</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		As a Sorcery — <sym>T</sym>, Sacrifice this artifact: Look at the top two cards of your library. <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Quickdraw</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> one of them and put the other on the bottom. <i-auto>(Exile it face-down. Until your next turn, you may look at and play it from exile. If you don’t, turn it face-up and it’s no longer “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>quickdrawn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”.)</i-auto>
+		As a Sorcery — <sym>5</sym> or <kw-A><nospellcheck><key>Elec<param-*s>t</param-*s> <param-number>5</param-number></key></nospellcheck>: <kw-0><nospellcheck><key>Quickdraw the top card of</key></nospellcheck></kw-0> your library. You may cast it without paying its mana cost. You may put it onto the battlefield if it’s a land.<atom-reminder-action> <i-auto>(To elect <param-number>5</param-number>, tap <param-number>five</param-number> untapped nonland permanents you control.)</i-auto></atom-reminder-action></kw-A>
+		<kw-1><nospellcheck><key>Unearth <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1R</sym-auto></param-cost>: Return this card from your graveyard to the battlefield. Exile it at the beginning of the end step or if it would leave the battlefield. Unearth only as a sorcery.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text: <i-flavor>“Rock talking, <error-spelling:en_US>pampa</error-spelling:en_US>. It sing.”</i-flavor>
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

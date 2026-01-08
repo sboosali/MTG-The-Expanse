@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		extra-turns; 
+	time_created: 2025-10-09 18:07:15
+	time_modified: 2025-10-15 11:28:46
+	name: Time Dilation
+	casting_cost: 2UU
+	image: image77.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery </word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Take an extra turn after this one.
+		<kw-A><nospellcheck><key>Refresh <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Untap up to <param-number>two</param-number> permanents on your team.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kelly Knowles
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

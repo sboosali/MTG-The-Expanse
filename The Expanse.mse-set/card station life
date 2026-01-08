@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-bigtext
+	stylesheet_version: 2025-10-08
+	has_styling: false
+	notes:
+		;
+		interact; 
+	time_created: 2025-12-11 09:46:30
+	time_modified: 2025-12-26 13:08:44
+	name: Station Life
+	casting_cost: 1U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Counter</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet><i>Sleep Shift — </i><kw-0><nospellcheck><key>Stun</key></nospellcheck></kw-0> target permanent three times. <i-auto>(To <kw-0><nospellcheck><key>stun</key></nospellcheck></kw-0> it, put a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> on it if tapped, and tap it otherwise. If a permanent with a <kw-0><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-0> would become untapped, remove one from it instead.)</i-auto>
+		</li><li><bullet>• </bullet><i>Leisure Shift —</i> Counter target spell unless its controller pays <sym>2</sym>.
+		</li><li><bullet>• </bullet><i>Work Shift —</i> <kw-0><nospellcheck><key>Tinker <param-number>2</param-number></key></nospellcheck></kw-0>. <i-auto>(Put two +1/+1 counters on target permanent you control with a <kw-0><nospellcheck><key>tech typ<param-*s>e</param-*s></key></nospellcheck></kw-0>. It becomes a 0/0 creature with <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0> in addition to its other types, until end of turn if it’s a Vehicle and indefinitely otherwise. <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Subtypes</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> that aren’t creature types or basic land types are tech.)</i-auto></li>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

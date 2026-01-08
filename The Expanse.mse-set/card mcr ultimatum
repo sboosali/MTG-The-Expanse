@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		441, freeflip; big-spell, cheap-mode;
+		cf. "Ultimatum".
+	time_created: 2025-11-30 15:23:32
+	time_modified: 2025-12-05 11:52:53
+	name: MCR Ultimatum
+	casting_cost: 6WW
+	image: image120.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i>Invasion — </i><kw-A><nospellcheck><key>Cloak</key></nospellcheck> the top four cards of your library.<atom-reminder-action> <i-auto>(To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward <sym>2</sym>. Turn it face up any time for its mana cost if it’s a creature card.)</i-auto></atom-reminder-action></kw-A>
+		Each <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> creature <kw-A><nospellcheck><key>suit<param-*s>s</param-*s> up <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create <param-number>a</param-number> Power-Suit token attached to that creature. It’s an Equipment artifact with equip <sym><sym>1</sym></sym> and “Equipped creature gets +1/+1”.)</i-auto></atom-reminder-custom></kw-A>
+		You may turn a face-down permanent you control face up. 
+		<i>Submission —</i> <sym-auto>1W</sym-auto>, Discard this card: <kw-0><nospellcheck><key>Cloak the top card of your library</key></nospellcheck></kw-0>. Put a -1/-1 counter on that card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Fluorescent Wolf
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		engine; 
+	time_created: 2025-12-11 12:42:54
+	time_modified: 2025-12-12 08:34:06
+	name: Ceres Dock-Worker
+	casting_cost: 2G
+	image: image163.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dock-Worker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-A><i-auto><nospellcheck><key>Overtime</key></nospellcheck></i-auto></kw-A> — Once per Turn — Whenever you cast a spell outside of your main phase, create a <kw-1><nospellcheck><key>Worker toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s a 0/1 colorless creature with “Diverse — This token gets +1/+1 if you control an Earther. The same is true for Martian and Belter.”)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor><error-spelling:en_US>Thierry</error-spelling:en_US> (to Miller): “<error-spelling:en_US>Da</error-spelling:en_US> bird, him die to give you feather for your chapeau?”</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

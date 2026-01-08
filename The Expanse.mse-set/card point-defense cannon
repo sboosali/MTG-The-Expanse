@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_bottom: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		ok;
+		divisble-burn, 241, removal; mana-sink, fiisher; 
+		eg _ combo;
+		aka "PDC".
+	time_created: 2025-12-11 12:42:54
+	time_modified: 2025-12-28 09:35:59
+	name: Point-Defense Cannon
+	casting_cost: 2R
+	image: image175.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Bomb</word-list-artifact><atom-sep> </atom-sep><word-list-artifact>Tool</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Charged <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(This Tool enters with <param-number>three</param-number> charge counters on it.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>1</sym-auto>, Remove a charge counter from this Tool: It deals 1 damage to any target.
+		<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Supercooled</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Barrel —</i> This ability costs <sym-auto>1</sym-auto> less to activate if this Tool entered this turn.
+		<i>Reload Ammo —</i> <kw-1><nospellcheck><key>Exhaust — <param-cost><sym-auto>XXX</sym-auto></param-cost>: <param-action>Put X charge counters on this Tool and tap it. You cannot activate its abilities until it becomes untapped</param-action>.</key></nospellcheck><atom-reminder-expert> <i-auto>(Activate each exhaust ability only once.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 
+	illustrator: The Expanse (S3)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2025-09-30 15:24:40
+	time_modified: 2025-10-01 18:48:46
+	name: CH4
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>CH4</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<sym-auto>1</sym-auto>, <sym>T</sym>, Sacrifice this token: Choose one —
+		<li><bullet>• </bullet><kw-A><nospellcheck><key>Refuel <param-one_word>1</param-one_word></key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose up to <param-one_word>one</param-one_word> other permanent that have a counter or are creatures you control. For each, add or remove another counter of some kind already on it; if it’s a creature you control without a +1/+1 counter, you may instead put one on it.)</i-auto></atom-reminder-action></kw-A>
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Refresh <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Untap up to <param-number>one</param-number> other permanent on your team.)</i-auto></atom-reminder-action></kw-A></li>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

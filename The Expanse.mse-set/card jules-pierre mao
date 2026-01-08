@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 4
+		frames: draft matters
+		other_options: pokemon evobar, avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub, auto spacecraft
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		ok;
+		draft; 
+	time_created: 2025-10-15 11:36:05
+	time_modified: 2025-12-01 12:23:32
+	card_color: blue, black, green, hybrid, vertical
+	name: Jules-Pierre Mao
+	alias: Mao–Kwikowski Mercantile
+	casting_cost: 2/B2/G2/U
+	image: image86.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Executive</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Leadership — <param-name>Each nonland card in your starting deck has mana value 4 or more, <sym>X</sym> in its mana cost, or an additional mana cost.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(If this card is your chosen leader, it starts the game in your opening hand, after mulligans.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you <kw-A><nospellcheck><key>finance</key></nospellcheck> a spell, create a 4/3 colorless Alien creature token.<atom-reminder-custom> <i-auto>(Spells cast by spending at least four mana or with mana value 4+ are financed.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

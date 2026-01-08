@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-battles
+	stylesheet_version: 2025-01-21
+	has_styling: false
+	notes: 
+	time_created: 2025-09-20 21:35:21
+	time_modified: 2025-10-19 21:10:18
+	name: Battle of Ganymede
+	casting_cost: 2G
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Battle</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-battle>Clash</word-list-battle><soft><atom-sep> </atom-sep></soft><word-list-battle></word-list-battle>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i-auto>(Opponents can attack your Clashes. Remove a defense counter each upkeep.)</i-auto>
+		<margin:0:0:5>At the beginning of combat on your turn, choose one —</margin:0:0:5>
+		<li><bullet>• </bullet><i>Earth —</i> .
+		</li><li><bullet>• </bullet><i>Mars —</i> .</li>
+	flavor_text: <i-flavor></i-flavor>
+	loyalty: 5
+	power: 4
+	toughness: 
+	illustrator: Lee Fitzgerald
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

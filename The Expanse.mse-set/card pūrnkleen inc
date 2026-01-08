@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		aggro, EtB; pseudo-expansive; 
+	time_created: 2025-12-11 20:22:47
+	time_modified: 2025-12-11 20:30:54
+	name: Pūr’n’Kleen, <i>inc.</i>
+	casting_cost: 1W
+	image: image162.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Corp</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i>Vertical Integration — </i>When this creature enters, choose one or more —
+		<li><bullet>• </bullet>Put a +1/+1 counter on another target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> creature.
+		</li><li><bullet>• </bullet>Put a defense counter on target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> <kw-0><nospellcheck><key>Clash</key></nospellcheck></kw-0>.
+		</li><li><bullet>• </bullet>Remove a lore counter from target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> Saga.
+		</li><li><bullet>• </bullet>Exile target instant or sorcery card from a graveyard.
+		</li><li><bullet>• </bullet>Target player <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>scries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> 2 and gains 2 life. Then if all modes were chosen <i-auto>(with valid targets)</i-auto>, draw a card. </li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

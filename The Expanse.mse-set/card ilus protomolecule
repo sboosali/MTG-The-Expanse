@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-bigtext
+	stylesheet_version: 2025-10-08
+	has_styling: false
+	notes:
+		;
+		cheaty; mass-expropriate, n41; 
+		cf "Crabomination".
+	time_created: 2025-10-04 12:33:34
+	time_modified: 2026-01-02 09:46:23
+	name: Ilus Protomolecule
+	casting_cost: 4BBB
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		This creature loses <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> <i-auto>(indefinitely)</i-auto> when it attacks or blocks.
+		Whenever this creature attacks, defending player sacrifices a creature or battle, discards a card at random, and <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. <kw-0><nospellcheck><key>Expropriate</key></nospellcheck></kw-0> each nonland card put into a graveyard this way and drain that much life from them. <i-auto>(Exile them face-down. You may look at and cast them from exile, and may spend mana as though it were of any type to do so.)</i-auto>
+		Whenever this creature deals X damage to an opponent, you may cast a card you expropriated they own with mana value at most X without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 7
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

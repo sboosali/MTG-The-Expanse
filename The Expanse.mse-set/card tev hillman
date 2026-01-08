@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		sac-payoff, draw-engine; 
+		cf "Yawgmoth, Thran Physician".
+	time_created: 2025-12-04 14:55:19
+	time_modified: 2025-12-11 11:32:47
+	name: Tev Hillman
+	casting_cost: 3B
+	transformation: instant
+	image: image129.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-1><nospellcheck><key>Exploit</key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature enters, you may sacrifice a creature.)</i-auto></atom-reminder-expert></kw-1>
+		Whenever you sacrifice a creature <i>(including this one)</i>, <kw-A><nospellcheck><key>terraform</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Draw a card. You may put it onto the battlefield tapped if it’s a land.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-1><nospellcheck><key>Accelerate <param-cost><sym-auto>B</sym-auto></param-cost></key></nospellcheck><atom-reminder-> <i-auto>(You may cast this spell for its accelerate cost any time you could cast an instant. If you do, it can’t block this turn and is sacrificed at the beginning of your next upkeep.)</i-auto></atom-reminder-></kw-1>
+	flavor_text: <i-flavor>The family owns most <error-spelling:en_US>terraformers</error-spelling:en_US> on Mars.</i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

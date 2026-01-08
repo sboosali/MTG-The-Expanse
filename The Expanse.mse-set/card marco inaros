@@ -1,0 +1,47 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2025-10-05
+	has_styling: true
+	styling_data:
+		chop_bottom: 
+		frames: 
+		other_options: godzilla style alias, avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		;
+		draft, tall; 
+		; 
+	time_created: 2025-10-15 11:36:05
+	time_modified: 2025-12-01 12:21:59
+	card_color: white, blue, red, multicolor, horizontal
+	name: Marco Inaros
+	alias: Partisan of The Belt
+	casting_cost: 2/U2/R2/W
+	image: image116.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rebel</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Leadership — <param-name>Each creature or kindred card in your starting deck is a Belter, and there are at least 10 such cards.</param-name></key></nospellcheck><atom-reminder-custom> <i-auto>(If this card is your chosen leader, it starts the game in your opening hand, after mulligans.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you cast a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Belter</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanent spell, <kw-A><nospellcheck><key>recruit</key></nospellcheck> it.<atom-reminder-custom> <i-auto>(To recruit a permanent, create a token that’s a copy of it, except it has haste and isn’t legendary. Sacrifice it at the beginning of the next end step.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you cast a nonpermanent <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Belter</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> spell, <kw-A><nospellcheck><key>fork</key></nospellcheck> it.<atom-reminder-custom> <i-auto>(Copy it, and you may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>“The sky belongs to the Belt.”</i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: The Expanse (S6)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

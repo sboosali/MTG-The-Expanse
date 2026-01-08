@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		deckcast, n41; big; 
+	time_created: 2025-09-28 19:01:18
+	time_modified: 2025-12-28 11:44:04
+	name: Dr. Fayez Sarkis
+	casting_cost: 2G
+	image: image26.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Geologist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		You may look at the top card of your library any time.
+		You may play lands from the top of your library.
+		<kw-A><i-auto><nospellcheck><key>Expansive</key></nospellcheck></i-auto></kw-A> — For each super and card type, as long as you control no permanents of that type, you may cast permanent spells of that type from the top of your library.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: The Expanse (S4)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

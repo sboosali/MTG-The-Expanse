@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		reanim, temp-reanim; 
+	time_created: 2025-10-04 20:50:10
+	time_modified: 2025-12-11 11:11:55
+	name: vanishing
+	casting_cost: XUU
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Vanishing <param-number>X</param-number></key></nospellcheck></kw-a> <i-auto>(This Aura enters with X time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)</i-auto>
+		When this Aura enters, return target non-Aura, nonland permanent card from your graveyard to the battlefield. Attach this Aura to it and this Aura gains “<kw-a><nospellcheck><key>enchant <param-name>permanent”.</param-name></key></nospellcheck></kw-a> Then sacrifice this Aura if X is 0.
+		Enchanted permanent has base power and toughness each equal to the number of time counters on this Aura. It’s a creature in addition to its other types.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		blink-engine, multi-flickerer, vertical-growth; performer; 
+		eg "" combo.
+		cf "".
+	time_created: 2026-01-03 11:48:29
+	time_modified: 2026-01-03 12:21:22
+	name: flicker
+	casting_cost: 3W
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever you cast a … spell, <kw-0><nospellcheck><key>flicker</key></nospellcheck></kw-0> another target <kw-0><nospellcheck><key>fuelable</key></nospellcheck></kw-0> permanent you control. <i-auto>(Exile it, then return it to the battlefield under its owner’s control.)</i-auto>
+		<i><kw-0><i-auto><nospellcheck><key>Sublime</key></nospellcheck></i-auto></kw-0> Trajectory —</i> Whenever a <kw-a><nospellcheck><key>fuelable</key></nospellcheck></kw-a> permanent enters, if it wasn’t cast from hand, fuel it up 1. <i-auto>(Creatures, battles, Sagas, and Tools are <kw-a><nospellcheck><key>fuelable</key></nospellcheck></kw-a>. To fuel it up </sym>1<sym>, put a +1/+1, defense, lore, or charge counter on it, respectively.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

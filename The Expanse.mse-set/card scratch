@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		unicode:
+		– 
+		U+2003	EN SPACE	foo bar
+		U+2003	EM SPACE foo bar
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2026-01-08 08:03:43
+	name: *SCRATCH*
+	casting_cost: 2
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en></word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		
+		
+		
+		.
+		<kw-A><nospellcheck><key>Decide <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Choose one additional cost.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Decide <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Choose one or two additional costs.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Decide <param-number>3</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(Choose one to <param-number>three</param-number> additional costs.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Propagate <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>( Create a token copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Propagate <param-number>3</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>( Choose one to <param-number>three</param-number> tokens you control with different names. Create a token copy of each.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-1><nospellcheck><key>Armed <param-number>1</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(this crature enters with <param-number>a</param-number> +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-1><nospellcheck><key>Armed <param-number>2</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(this crature enters with <param-number>two</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-A><nospellcheck><key>loo<param-*s>t</param-*s> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Draw a card, then discard a card.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>loo<param-*s>ts</param-*s> <param-number>2</param-number></key></nospellcheck> and gain 1 life.<atom-reminder-action> <i-auto>(To loot <param-number>2</param-number>, draw <param-number>two</param-number> cards, then discard that many cards.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>salvag<param-*s>e</param-*s> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(You may discard a card. If you do or your hand is empty, draw a card.)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>salvag<param-*s>e</param-*s> <param-number>2</param-number></key></nospellcheck> and gain 1 life.<atom-reminder-action> <i-auto>(To salvage <param-number>2</param-number>, you may discard up to <param-number>two</param-number> cards to draw that many cards. if there are fewer than <param-number>two</param-number> cards in your hand, you may instead discard it and draw <param-number>two</param-number> cards.)</i-auto></atom-reminder-action></kw-A>
+		passive scan for a <kw-A><nospellcheck><key>scientific</key></nospellcheck> card.<atom-reminder-custom> <i-auto>(Instants, sorceries, artifacts, enchantments, and battles are scientific.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Active scan for <param-a>a</param-a> <param-one_word>nonland</param-one_word> card</key></nospellcheck>. You may cast it without paying its mana cost.<atom-reminder-action> <i-auto>(To active scan for <param-a>a</param-a> <param-one_word>nonland</param-one_word> card, exile cards from the top of your library until you exile such a card. Put it into your hand and the rest on the bottom in a random order.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 0
+	illustrator: The Expanse (S)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: three
+		snap_chapter_to_box: 1,2,3
+		reminder_coordinate: 
+		separated_text_size: 
+		reminder_text_size: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2025-09-20 16:14:59
+	time_modified: 2025-12-11 11:08:29
+	name: RUMMAGE
+	casting_cost: R
+	image: image50
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	rule_text: 
+	flavor_text: <i-flavor>​</i-flavor>
+	level_1_text: <kw-A><nospellcheck><key>Salvag<param-*s>e</param-*s> <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(You may discard up to <param-number>two</param-number> cards to draw that many cards. If there are fewer than <param-number>two</param-number> cards in your hand, you may instead discard it and draw <param-number>two</param-number> cards.)</i-auto></atom-reminder-action></kw-A>
+	level_2_text: ​
+	level_3_text: ​
+	power: 
+	toughness: 
+	illustrator: Flourescent Wolf
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		<kw-A><nospellcheck><key>Salvag<param-*s>e</param-*s> <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(You may discard up to <param-number>two</param-number> cards to draw that many cards. If there are fewer than <param-number>two</param-number> cards in your hand, you may instead discard it and draw <param-number>two</param-number> cards.)</i-auto></atom-reminder-action></kw-A>
+		​
+		​

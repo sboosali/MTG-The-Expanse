@@ -1,0 +1,58 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: three
+		snap_chapter_to_box: 1,2,3
+		chapter_divider_coordinates: 209,303,
+		auto_frames: nyx, vehicle, snow
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		ok;
+		smooth, fix, ritual; life-drain; mill; pseudo-creature; 
+	time_created: 2025-10-01 16:17:35
+	time_modified: 2025-12-23 17:26:01
+	name: <i>Ilus IV</i> Planetfall
+	casting_cost: B
+	image: image148.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	rule_text: 
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	level_1_text: <kw-0><nospellcheck><key>Surveil <param-number>3</param-number></key></nospellcheck></kw-0>.
+	level_2_text: <kw-1><nospellcheck><key>Drain <param-number>2</param-number> life from</key></nospellcheck> each opponent.<atom-reminder-action> <i-auto>(They lose <param-number>2</param-number> life and you gain life equal to the amount lost.)</i-auto></atom-reminder-action></kw-1>
+	level_3_text:
+		Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+		<kw-1><nospellcheck><key>Cloak the top card of your library</key></nospellcheck>.<atom-reminder-action> <i-auto>(Put it onto the battlefield face down as a 2/2 creature with ward <sym>2</sym>. Turn it face up any time for its mana cost if it’s a creature card.)</i-auto></atom-reminder-action></kw-1>
+	level_4_text: .
+	illustrator: ElenStar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		<kw-0><nospellcheck><key>Surveil <param-number>3</param-number></key></nospellcheck></kw-0>.
+		<kw-1><nospellcheck><key>Drain <param-number>2</param-number> life from</key></nospellcheck> each opponent.<atom-reminder-action> <i-auto>(They lose <param-number>2</param-number> life and you gain life equal to the amount lost.)</i-auto></atom-reminder-action></kw-1>
+		Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+		<kw-1><nospellcheck><key>Cloak the top card of your library</key></nospellcheck>.<atom-reminder-action> <i-auto>(Put it onto the battlefield face down as a 2/2 creature with ward <sym>2</sym>. Turn it face up any time for its mana cost if it’s a creature card.)</i-auto></atom-reminder-action></kw-1>
+		.

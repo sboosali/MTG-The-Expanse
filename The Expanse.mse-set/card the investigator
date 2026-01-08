@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		clone; illusory-downside, deed-it-to-squint-it; 
+	time_created: 2025-12-04 10:22:59
+	time_modified: 2025-12-23 20:09:15
+	name: The Investigator
+	casting_cost: 1U
+	image: image174.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: You may have this creature enter as a copy of any creature on the battlefield, except it’s an Alien in addition to its other types and has “When this creature becomes the target of a spell, sacrifice it. If you cast that spell, and if you spent <sym>G</sym> this turn or control a Forest, return this creature to the battlefield under its owner’s control at the beginning of the next end step.”
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: ElenStar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

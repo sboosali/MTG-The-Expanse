@@ -1,0 +1,18 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-12-14 17:39:29
+	time_modified: 2025-12-14 17:40:27
+	name: Salvage the <i>Behemoth</i>
+	casting_cost: 1G
+	image: image100.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Rhys Yorke
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		cheat, free-gravecast; counterspell, interact, criminal, performer; 
+	time_created: 2025-12-26 13:06:08
+	time_modified: 2026-01-02 09:36:40
+	name: The 2,000,000,000yo Vision
+	casting_cost: 2U
+	image: image176.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Counter</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Choose one —
+		•<i> Reject the Mundane — </i>Counter target spell cast from its owner’s hand.
+		•<i> Embrace the <kw-A><i-auto><nospellcheck><key>Sublime</key></nospellcheck></i-auto></kw-A> —</i> Choose target nonland card in your graveyard that you can cast. Until end of turn, you may cast it without paying its mana cost or alternate cost.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: The Expanse (S3)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

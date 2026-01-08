@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		cheat, fire-saga; interact; 
+	time_created: 2025-12-11 13:21:47
+	time_modified: 2026-01-01 10:18:24
+	name: You Hear a Concealed Terminal
+	casting_cost: 1U
+	image: image159.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Counter</word-list-spell><atom-sep> </atom-sep><word-list-spell>Blink</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet><i>Track the Abductors With It —</i> Counter target permanent spell, it becoming accelerated instead. <i-auto>(It can’t block this turn and its controller sacrifices it at the beginning of their next upkeep.)</i-auto>
+		</li><li><bullet>• </bullet><i>The <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Abductée</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Was Investigating the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>OPA</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Delete It —</i> <kw-a><nospellcheck><key>Bounce</key></nospellcheck></kw-a> target artifact.
+		</li><li><bullet>• </bullet><i>There’s a Button, Push It — </i>Choose target Saga on the battlefield or in a graveyard. Copy one of its chapter abilities.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Rhys Yorke
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

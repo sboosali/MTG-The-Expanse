@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		smooth, land-drops, land-ramp; self-yard, cheaty; finisher, life-drain; 
+	time_created: 2025-11-14 08:38:09
+	time_modified: 2025-11-14 09:41:54
+	name: Royal Charter Energy: <i>Li</i>
+	casting_cost: 4BB
+	image: image102.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Corp</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Expansive</key></nospellcheck></i-auto></kw-A> — When this creature enters, <kw-0><nospellcheck><key>drain <param-number>X</param-number> life from</key></nospellcheck></kw-0> each opponent. X is the number of super and/or card types among <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> permanents. <i-auto>(They lose X life and you gain life equal to the amount lost. Permanents you or a teammate control are <kw-0><nospellcheck><key>friendly</key></nospellcheck></kw-0>.)</i-auto>
+		<i>Lithium Mining —</i> <sym>1</sym>, Discard this card, Rescue a non-Swamp land: Create a Basic Swamp token. <i-auto>(To rescue such, return one you control to its owner’s hand.)</i-auto>
+		<i>Lithium Refinement —</i> <sym>4</sym>, Discard this card: Put a black mana counter on target land you control. <i-auto>(Whenever that land is tapped for mana, add <sym>B</sym> for each such counter on it.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kim Sison
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: ;
+	time_created: 2025-12-11 12:07:02
+	time_modified: 2025-12-18 11:52:44
+	name: LG-NP
+	casting_cost: 2W
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Service</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		.
+		<i>Meet “<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>NightBandit</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>31” —</i> <kw-a><nospellcheck><key>Exhaust — <param-cost><sym-auto>3B</sym-auto></param-cost>: <param-action>…</param-action></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor>“Low Gravity, No Pressure”: <error-spelling:en_US>Ceres’</error-spelling:en_US> largest online dating platform.</i-flavor>
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		fling; 
+		eg. "". 
+	time_created: 2025-11-15 10:58:26
+	time_modified: 2025-11-15 12:14:44
+	name: Dump Core
+	casting_cost: R
+	image: image99.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Damage</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a creature or nonland permanent. Let X be 2 plus its <kw-0><nospellcheck><key>magnitude.</key></nospellcheck></kw-0> <i-auto>(The greatest of its power, toughness, defense, or mana value.)</i-auto>
+		<margin:0:0:5><kw-0><nospellcheck><key>Veil <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(Whenever this becomes the target of an <kw-0><nospellcheck><key>opposing</key></nospellcheck></kw-0> spell or ability, counter that spell or ability unless they pay <sym-auto>2</sym-auto>.)</i-auto></margin:0:0:5>
+		<margin:0:0:5>Choose one. If …, choose both instead.</margin:0:0:5>
+		<li><bullet>• </bullet><i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kzinti</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Lesson — </i>This spell gains all abilities of the sacrificed permanent, then deals X damage to any target.
+		</li><li><bullet>• </bullet><i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Radiotroph</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> —</i> Target player amasses Aliens X. <i-auto>(They put X +1/+1 counters on an Army they control. It’s also an Alien. If they don’t control an Army, they create a 0/0 colorless Alien Army creature token first.)</i-auto></li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: The Expanse (S4)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

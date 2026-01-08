@@ -1,0 +1,40 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		ok;
+		small; discard; drain-life; performer, criminal; 
+	time_created: 2025-10-01 18:47:41
+	time_modified: 2025-10-02 20:36:47
+	name: Station Coroner
+	casting_cost: 1B
+	image: image36.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Medic</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Recycle</key></nospellcheck></i-auto></kw-A> — When this creature enters, choose one. If a card left your graveyard this turn, you may instead choose two.
+		<li><bullet>• </bullet><i>Silicon — </i>Target opponent discards a card.
+		</li><li><bullet>• </bullet><i>Carbon — </i><kw-A><nospellcheck><key>Drain <param-number>3</param-number> life from</key></nospellcheck> target opponent.<atom-reminder-action> <i-auto>(They lose <param-number>3</param-number> life and you gain life equal to the amount lost.)</i-auto></atom-reminder-action></kw-A></li>
+	flavor_text: <i-flavor>“Know what the average life expectancy on Earth is? 123y. Even longer on Mars. Know what it is on Ceres? 68.”</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

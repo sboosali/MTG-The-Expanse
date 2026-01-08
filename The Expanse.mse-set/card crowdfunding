@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		mana-sink, topdeck, freecast; pseudo-creature; multi-ramp, fix; pseudo-elect, reward-horizontal; 
+	time_created: 2025-12-22 19:12:18
+	time_modified: 2025-12-22 20:05:27
+	name: Crowdfunding
+	casting_cost: 2U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When this enchantment enters, create a <kw-A><nospellcheck><key>Hauler toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s a 0/0 colorless Vehicle artifact with “Quasi-Expansive — This token gets +1/+1 for each super and/or card type among other friendly permanents.” and crew 1.)</i-auto></atom-reminder-custom></kw-A>
+		Tap an untapped artifact you control: Add <sym>R</sym>.
+		Tap an untapped enchantment you control: Add <sym>W</sym>.
+		Once per Turn, As a Sorcery — <sym>6</sym>: <kw-0><nospellcheck><key>Active scan for <param-a>a</param-a> <param-one_word>nonland</param-one_word> card</key></nospellcheck></kw-0>. You may cast it without paying its mana cost. <i-auto>(Exile cards from the top of your library until you exile a nonland. Put it into your hand and the rest on the bottom in a random order.)</i-auto>
+	flavor_text: <i-flavor>“Mr. <error-spelling:en_US>Meng</error-spelling:en_US>, I’m on Basic, but I’ve shared the fundraiser for your daughter in my church newsletter.”</i-flavor>
+	illustrator: The Expanse (S)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

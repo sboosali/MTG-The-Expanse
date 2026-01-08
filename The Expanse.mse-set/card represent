@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2025-11-16 08:14:05
+	time_modified: 2025-12-08 21:49:35
+	name: Represent
+	casting_cost: B
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-1><nospellcheck><key>Spree</key></nospellcheck><atom-reminder-expert> <i-auto>(Choose one or more additional costs.)</i-auto></atom-reminder-expert></kw-1>
+		<li><bullet>• </bullet>+ <sym>1</sym> — …
+		</li><li><bullet>• </bullet>+ <kw-1><nospellcheck><key>Represent <param-a>an</param-a> <param-one_word>Earther</param-one_word></key></nospellcheck> — .<atom-reminder-action> <i-auto>(To represent <param-a>an</param-a> <param-one_word>Earther</param-one_word>, choose <param-a>an</param-a> <param-one_word>Earther</param-one_word> you control, reveal <param-a>an</param-a> <param-one_word>Earther</param-one_word> from your hand, or exile <param-a>an</param-a> <param-one_word>Earther</param-one_word> from your graveyard.)</i-auto></atom-reminder-action></kw-1>
+		</li><li><bullet>• </bullet>+ <kw-0><nospellcheck><key>Represent <param-a>a</param-a> <param-one_word>Martian</param-one_word></key></nospellcheck></kw-0> — 
+		</li><li><bullet>• </bullet>+ <kw-0><nospellcheck><key>Represent <param-a>a</param-a> <param-one_word>Belter</param-one_word></key></nospellcheck></kw-0> — </li>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

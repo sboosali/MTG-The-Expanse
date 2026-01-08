@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		altwincon, buildaround; big, token-maker, blocker; 
+	time_created: 2025-10-10 12:00:02
+	time_modified: 2025-12-28 11:07:10
+	name: Dr. Travon Barrish
+	casting_cost: 1G
+	image: image179.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Chemist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Whenever you <kw-A><nospellcheck><key>research</key></nospellcheck> your second or fourth card each turn, <kw-A><nospellcheck><key>amass Aliens <param-number>2</param-number></key></nospellcheck>.<blob><atom-reminder-action> <i-auto>(Drawing cards and quickdrawing, expropriating, or cloaking from a library is research.</atom-reminder-action></kw-A><moved><atom-reminder-action> To amass Aliens <param-number>2</param-number>, put <param-number>two</param-number> +1/+1 counters on an Army you control and it’s also an Alien. If you don’t control an Army, create a 0/0 Alien Army creature token first.)</i-auto></atom-reminder-action></kw-A></moved></blob>
+		<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Protomolecule</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Synthesized — </i>At the beginning of each end step, if you’ve <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>quickdrawn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, expropriated, and cloaked cards from a library, you win the game.
+	flavor_text: <i-flavor>The</i> Falcon<i>’s quantum chemist.</i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: The Expanse (RPG)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

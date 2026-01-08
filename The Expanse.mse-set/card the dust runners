@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2025-10-05
+	has_styling: false
+	notes:
+		ok;
+		blink-engine; triggered-recruiter, activated-recruiter; performer, pressure; 
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2026-01-01 16:01:49
+	name: The Dust Runners
+	casting_cost: 2R
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Sublime</key></nospellcheck></i-auto></kw-A> — Whenever you cast a spell not from hand, <kw-0><nospellcheck><key>recruit</key></nospellcheck></kw-0> target <kw-0><nospellcheck><key>friendly</key></nospellcheck></kw-0> creature. <i-auto>(Create a token that’s a copy of it, except it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and isn’t legendary. Sacrifice it at the beginning of the next end step.)</i-auto>
+		Exhaust, As a Sorcery — <sym-auto>W</sym-auto>: <kw-0><nospellcheck><key>Recruit</key></nospellcheck></kw-0> another target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> enchantment. Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on this creature. <i-auto>(Targeted abilities must have valid targets to be activated.)</i-auto></i>
+		Exhaust, As a Sorcery — <sym-auto>1U</sym-auto>: <kw-0><nospellcheck><key>Recruit</key></nospellcheck></kw-0> target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> artifact. Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter on this creature.                    <i>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: S.N.T._drw
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

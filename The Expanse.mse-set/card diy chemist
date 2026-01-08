@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		token-prism, big; splash; blocker; 
+	time_created: 2025-10-10 12:00:02
+	time_modified: 2026-01-08 07:51:12
+	name: DIY Chemist
+	casting_cost: 1G
+	image: image181.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Chemist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Industry</key></nospellcheck></i-auto></kw-A> — If you would create an </sym>H2O<sym>, NH3, or <kw-0><nospellcheck><key>CH4 toke<param-*s>n</param-*s></key></nospellcheck></kw-0>, instead create one of each.
+		<kw-0><nospellcheck><key>Exhaust — <param-cost><sym-auto>3UUU</sym-auto></param-cost>: <param-action><kw-1>Propagate 3. Put three +1/+1 counters and a <kw-a>flying counter on this creature</param-action>.</key></nospellcheck></kw-0> <i-auto>(Choose up to three tokens you control with different names and create a token copy of each. Most <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>tokens’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> names are their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>subtype</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.)</i-auto>             
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		rx; wheely; 
+		eg "The Churn" combo.
+		cf "Hullbreacher".
+	time_created: 2025-10-01 08:37:52
+	time_modified: 2026-01-05 11:32:25
+	name: Jila Sorormaya
+	casting_cost: 2R
+	transformation: instant
+	image: image78.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Persistent —</key></nospellcheck> Whenever a spell or ability causes an opponent to draw X cards, create X <kw-A><nospellcheck><key>H2O toke<param-*s>ns</param-*s></key></nospellcheck>. Then if this creature entered this turn, they discard X cards at random.<blob><atom-reminder-custom> <i-auto>(This effect continues until end of turn when this creature leaves the battlefield.</atom-reminder-custom></kw-A><moved><atom-reminder-custom> H2O is an artifact with “<sym>T</sym>, Sacrifice this token: Add <sym>C</sym> or one mana of any color. Spend this mana only to pay colored costs if colored.”)</i-auto></atom-reminder-custom></kw-A></moved></blob>
+		<kw-1><nospellcheck><key>Accelerate <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck><atom-reminder-> <i-auto>(You may cast this spell for its accelerate cost any time you could cast an instant. If you do, it can’t block this turn and is sacrificed at the beginning of your next upkeep.)</i-auto></atom-reminder-></kw-1>
+		Accelerate only during an opponent’s turn.
+	flavor_text: <i-flavor><error-spelling:en_US>Ceres’</error-spelling:en_US> most infamous performance artist.</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Molly Mendoza
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

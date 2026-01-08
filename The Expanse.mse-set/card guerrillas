@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		big; prod, fix; 
+	time_created: 2025-09-30 15:33:00
+	time_modified: 2025-10-01 14:38:19
+	name: Guerrillas
+	casting_cost: 2R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Draw</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Add <sym-auto>WW</sym-auto> or <sym-auto>UU</sym-auto>. Until your next turn, you don’t lose this mana as steps and phases end.
+		<kw-A><nospellcheck><key>Quickdraw the top <param-one_word>two</param-one_word> cards of</key></nospellcheck> your library.<atom-reminder-action> <i-auto>(Exile them face-down. Until your next turn, you may look at and play any of them from exile. Turn face-up each you didn’t and they’re no longer “quickdrawn”.)</i-auto></atom-reminder-action></kw-A>
+		Create a <kw-A><nospellcheck><key>Guerrilla Strat toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-custom> <i-auto>(It’s a red Strat enchantment with “Sublime — Whenever you cast a spell not from hand, this token deals 1 damage to target player or battle.”)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

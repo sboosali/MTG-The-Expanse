@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		stifle-worthy, bad-EtB; crew-worthy, big-crew-cost; fuel-worthy; 
+	time_created: 2025-12-14 17:40:31
+	time_modified: 2025-12-14 17:52:33
+	name: The <i>Nauvoo</i>
+	casting_cost: 1G
+	image: image111.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		This artifact enters with a <kw-0><nospellcheck><key>crew counter</key></nospellcheck></kw-0> on it. <i-auto>(It’s a creature in addition to its other types.)</i-auto>
+		When this creature enters, you may <kw-A><nospellcheck><key>elec<param-*s>t</param-*s> <param-number>6</param-number></key></nospellcheck>. If you don’t, remove a <kw-0><nospellcheck><key>crew counter</key></nospellcheck></kw-0> from it.<atom-reminder-action> <i-auto>(To elect <param-number>6</param-number>, tap <param-number>six</param-number> untapped nonland permanents you control.)</i-auto></atom-reminder-action></kw-A>
+		<kw-1><nospellcheck><key>Annihilator <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature attacks, defending player sacrifices <param-number>two</param-number> permanents.)</i-auto></atom-reminder-expert></kw-1>
+		Crew—Pay <sym>8</sym>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 8
+	toughness: 8
+	illustrator: North Front Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

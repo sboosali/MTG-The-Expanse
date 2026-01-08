@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		$3-ritual; 
+		cf "Black Lotus".
+	time_created: 2025-10-04 17:30:00
+	time_modified: 2025-12-31 11:35:25
+	name: Seed Crystal
+	casting_cost: 0
+	image: image186.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		If you were the starting player, this artifact enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice this artifact: Add <sym-auto>CCC</sym-auto>.
+	flavor_text: <i-flavor>And at the very center, a particle nothing leads to…a ‘seed <error-spelling:en_US>crystal’</error-spelling:en_US> that requires—and provides—massive amounts of energy.</i-flavor>
+	illustrator: ElenStar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

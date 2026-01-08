@@ -1,0 +1,44 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2025-10-05
+	has_styling: true
+	styling_data:
+		chop_bottom: 8
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		;
+		two-body, big; multi-ramp, fix; 
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2025-11-24 11:44:50
+	name: Dr. Praxidike Meng
+	casting_cost: 1G
+	image: image103.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Offspring <param-cost><sym-auto>3/U</sym-auto></param-cost></key></nospellcheck></kw-a> <i-auto>(You may pay this spell’s offspring cost as an additional cost to cast it. If you do, when this permanent enters, create a 1/1 token copy of it.)</i-auto>
+		<sym-auto>T</sym-auto>: Add X <sym-auto>G</sym-auto>, where X is this creature’s power.
+		<i><sym>T</sym></i>: Add Y <sym>U</sym>, where Y is this creature’s toughness.
+		This card’s <kw-a><nospellcheck><key>offspring <param-cost>is</param-cost></key></nospellcheck></kw-a> named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mei</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Meng</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

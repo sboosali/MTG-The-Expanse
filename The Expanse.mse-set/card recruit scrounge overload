@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		dance, cheat-from-yard; free-animate, free-attach; 
+	time_created: 2025-12-30 11:50:17
+	time_modified: 2025-12-30 12:08:41
+	name: recruit scrounge overload
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Exile target artifact card from your graveyard.
+		<kw-0><nospellcheck><key>Recruit</key></nospellcheck></kw-0> each card exiled this way. <i-auto>(To <kw-0><nospellcheck><key>recruit</key></nospellcheck></kw-0> a card, create a token that’s a copy of it, except it has <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0> and isn’t legendary. Sacrifice it at the beginning of the next end step.)</i-auto>
+		For each permanent recruited this way, it becomes a creature in addition to its other types if it’s a Vehicle, and you may attach it to a creature you control if it’s an Equipment.
+		<kw-1><nospellcheck><key>Overload <param-cost><sym-auto>5RR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its overload cost. If you do, change “target” in its text to “each”.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

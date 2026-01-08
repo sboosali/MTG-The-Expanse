@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		wincon, fireball; multi-token, big; 
+		cf "Forth Eorlingas!".
+	time_created: 2025-10-14 18:26:02
+	time_modified: 2026-01-04 09:20:38
+	name: MMC!
+	casting_cost: XRR
+	image: image46
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Create X 3/2 red Martian creature tokens with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Then if you created a token this way, sacrifice a token.
+	flavor_text:
+		<i-flavor>“Who will feast on Earth’s sky and drink their rivers dry?” // “The <error-spelling:en_US>MMC</error-spelling:en_US>!”<soft-line>
+		</soft-line>“Who will pound their mountains into fine Martian dust?” // “The <error-spelling:en_US>MMC</error-spelling:en_US>!”<soft-line>
+		</soft-line>“Till the rains fall hard on Olympus Mons, WHO ARE WE?” // “THE <error-spelling:en_US>MMC</error-spelling:en_US>!”</i-flavor>
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

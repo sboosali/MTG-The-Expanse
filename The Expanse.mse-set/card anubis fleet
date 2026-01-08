@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		multi-token, big; 
+		cf "Genesis Wave".
+	time_created: 2025-10-14 18:26:02
+	time_modified: 2026-01-04 09:34:57
+	name: <i>Anubis</i> Fleet
+	casting_cost: XGG
+	image: image173.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Cloak</key></nospellcheck> the top X cards of your library.<atom-reminder-action> <i-auto>(To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward <sym>2</sym>. Turn it face up any time for its mana cost if it’s a creature card.)</i-auto></atom-reminder-action></kw-A>
+		Add X <sym>C</sym>. Spend this mana only to turn face-down permanents face up.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		tutor, reduxer, equipment-matter; big, tri-cid; 
+		cf "Stoneforge Mystic".
+	time_created: 2025-10-04 17:37:54
+	time_modified: 2025-12-18 11:58:43
+	name: Goliath Skunkworks
+	casting_cost: 1W
+	image: image113.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Corp</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		When this creature enters, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle.
+		<i>Suit Prototyping —</i> Once per Turn — While casting an Equipment spell, you may pay <sym>RWB</sym> <i-auto>(or <sym>3</sym>)</i-auto> less.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Tim Warnock
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

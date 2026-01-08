@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		cheat-from-topdeck; 
+	time_created: 2025-12-09 10:39:27
+	time_modified: 2025-12-09 10:43:56
+	name: Project Caliban
+	casting_cost: 1G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-0><nospellcheck><key>Kicker—<param-cost>Represent an Alien</param-cost>.</key></nospellcheck></kw-0> <i-auto>(Tap an Alien you control, reveal an Alien from your hand, or exile an Alien from your graveyard.)</i-auto>
+		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. When you do, return target permanent card from among them to your hand.
+		If this spell was kicked and that card’s mana value is at most </sym>6<sym>, you may instead put that card onto the battlefield. Otherwise, <kw-A><nospellcheck><key>amass Aliens <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control and it’s also an Alien. If you don’t control an Army, create a 0/0 Alien Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		graveclone / any-clonimate, reanim; quasi-ramp, recycler; 
+		cf. "Lazav, Wearer of Faces"; cf "Deathrite Shaman".
+	time_created: 2025-12-11 12:24:31
+	time_modified: 2025-12-24 08:31:02
+	name: The <i>Scopuli</i>
+	casting_cost: 1G
+	image: image139.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		<kw-0><nospellcheck><key>Ambush</key></nospellcheck></kw-0>, Once per Turn — Exile a permanent card from your graveyard: Until end of turn, this Vehicle becomes a copy of it, except it has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, and it’s a creature in addition to its other types whose base power and base toughness are each 3 at minimum. <i-auto>(Activate only during combat or as a sorcery.)</i-auto>
+	flavor_text: <i-flavor>An inconspicuous freighter.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

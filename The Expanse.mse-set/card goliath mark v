@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		big-equipment, tutorable; aggro, LtB;
+	time_created: 2025-10-04 20:50:10
+	time_modified: 2025-12-06 10:27:49
+	name: Goliath Mark V
+	casting_cost: 4R
+	image: image136.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Equipped creature gets +5/+5 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		Whenever this or equipped creature attacks, defending player suffers 3. <i-auto>(This source deals 3 damage to their of choice of themselves, a battle they protect, or a creature they control.)</i-auto>
+		<kw-a><nospellcheck><key>Reconfigure <param-cost><sym-auto>4RR</sym-auto></param-cost></key></nospellcheck></kw-a> <i-auto>(Pay its reconfigure cost: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn’t a creature.)</i-auto>
+		<kw-A><nospellcheck><key>Crystallize</key></nospellcheck><atom-reminder-custom> <i-auto>(When this permanent dies, unless it had a crystal counter on it, return it to the battlefield with a crystal counter on it. A permanent with a crystal counter isn’t creature and is an artifact in addition to its other types.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: JujuFe1
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

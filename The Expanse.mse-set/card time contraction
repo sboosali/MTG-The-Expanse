@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok; weird; 
+		extra-turns; criminal; 
+	time_created: 2025-10-09 18:07:15
+	time_modified: 2025-10-15 11:32:49
+	name: Time Contraction
+	casting_cost: 3BB
+	image: image79.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Sorcery </word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Alien</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		You control target opponent during their next turn. <i-auto>(You see all cards they could see and make all decisions for them.)</i-auto>
+		After that turn, they take an extra turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kelly Knowles
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

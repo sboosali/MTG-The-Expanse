@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		topdeck-freecaster, peeking-matters; sink, splash; 
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2025-12-08 10:59:47
+	name: Davila Aerospatiale, <i>inc.</i>
+	casting_cost: 2U
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Corp</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		Once per Turn — Whenever you <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>surveil</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> or passive scan, look at the top card of your library <i-auto>(afterwards)</i-auto>. You may cast that card without paying its mana cost <i-auto>(ignoring timing rules)</i-auto>.
+		<kw-1><nospellcheck><key>Exhaust — <param-cost><sym-auto>3G</sym-auto></param-cost>: <param-action><kw-1>Surveil 2. Put two +1/+1 counters on this creature</param-action>.</key></nospellcheck><atom-reminder-expert> <i-auto>(Activate each exhaust ability only once.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

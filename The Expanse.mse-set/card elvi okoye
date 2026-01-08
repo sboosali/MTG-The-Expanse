@@ -1,0 +1,48 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_bottom: 
+		frames: draft matters
+		other_options: godzilla style alias, avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		;
+		draft; 
+	time_created: 2025-10-10 12:00:02
+	time_modified: 2025-12-16 13:29:52
+	name: Elvi Okoye
+	casting_cost: 1U/RU/R
+	image: image114.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Biologist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-0><nospellcheck><key>Leadership — <param-name>Each nonland card in your starting deck is scientific.</param-name></key></nospellcheck></kw-0> <i-auto>(Instants, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, artifacts, enchantments, and battles are <kw-0><nospellcheck><key>scientific</key></nospellcheck></kw-0>. If this card is your chosen leader, it starts the game in your opening hand, after mulligans.)</i-auto>
+		<kw-0><nospellcheck><key>Ward—<param-cost>Discard a scientific card</param-cost>.</key></nospellcheck></kw-0>
+		Whenever you cast a <kw-0><nospellcheck><key>scientific</key></nospellcheck></kw-0> spell, <kw-0><nospellcheck><key>amass <param-name>Aliens <sym-auto>X</sym-auto>, where X is that spell’s mana value, to a minimum of</param-name> <param-number>1</param-number></key></nospellcheck></kw-0>. <i-auto>(Put X +1/+1 counters on an Army you control and it’s also an Alien. If you don’t control an Army, create a 0/0 Alien Army creature token first.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: The Expanse (S4)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

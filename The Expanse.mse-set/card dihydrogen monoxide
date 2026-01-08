@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		performer, criminal; 
+	time_created: 2025-10-01 19:18:44
+	time_modified: 2025-10-16 11:00:31
+	name: Dihydrogen Monoxide
+	casting_cost: U
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-1><nospellcheck><key>Escalate <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Pay this cost for each mode chosen beyond the first.)</i-auto></atom-reminder-expert></kw-1>
+		<margin:0:0:5>Choose one or more —</margin:0:0:5>
+		<li><bullet>• </bullet><i>Universal Solvent —</i> <kw-1><nospellcheck><key>Bounce</key></nospellcheck> target creature.<atom-reminder-core> <i-auto>(To bounce a permanent, return it to its owner’s hand.)</i-auto></atom-reminder-core></kw-1>
+		</li><li><bullet>• </bullet><i>Nuclear Fusion —</i> Create a token that’s a copy of target token you control.
+		</li><li><bullet>• </bullet><i>Specific Heat —</i> Target permanent gains <kw-0><nospellcheck><key>shroud</key></nospellcheck></kw-0> until end of turn.
+		</li><li><bullet>• </bullet><i>Daily Hydration —</i> Target player <kw-0><nospellcheck><key>loo<param-*s>ts</param-*s> <param-number>2</param-number></key></nospellcheck></kw-0>.</li>
+	flavor_text: <i-flavor></i-flavor>
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

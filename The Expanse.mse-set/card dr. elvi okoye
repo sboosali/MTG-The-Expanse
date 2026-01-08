@@ -1,0 +1,38 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		buildaround, big; blocker, splash; 
+	time_created: 2025-10-10 12:00:02
+	time_modified: 2025-12-09 12:12:34
+	name: Dr. Elvi Okoye
+	casting_cost: 2U
+	image: image123.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Biologist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Sublime</key></nospellcheck></i-auto></kw-A> — Whenever you cast a noncreature spell not from hand, you may <kw-A><nospellcheck><key>fork</key></nospellcheck> it.<atom-reminder-custom> <i-auto>(Copy it, and you may choose new targets for the copy.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><i-auto><nospellcheck><key>Sublime</key></nospellcheck></i-auto></kw-A> — Whenever you cast a creature spell not from hand, if you control a Forest or spent <sym>G</sym> this turn, you may <kw-0><nospellcheck><key>fork</key></nospellcheck></kw-0> it, except it’s an Alien in addition to its other types and isn’t legendary. <i-auto>(Permanent spell copies become tokens.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor>Sol’s leading (theoretical) <error-spelling:en_US>exobiologist</error-spelling:en_US>, she became humanity’s first (applied) <error-spelling:en_US>xenobiologist</error-spelling:en_US>.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: The Expanse (S4)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

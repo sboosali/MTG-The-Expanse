@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		free-attach; vertical-growth, multi-token; aggro, big; 
+		aka "Bobbie", "Gunny".
+	time_created: 2025-10-19 14:21:56
+	time_modified: 2025-10-19 14:37:07
+	name: GySgt. Roberta Draper
+	casting_cost: 1W
+	image: image96.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		At the beginning of combat on your turn, choose one —
+		<li><bullet>• </bullet>Target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> unequipped creature <kw-A><nospellcheck><key>suit<param-*s>s</param-*s> up <param-number>1</param-number></key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create <param-number>a</param-number> Power-Suit token attached to this creature. It’s an Equipment artifact with equip <sym><sym>1</sym></sym> and “Equipped creature gets +1/+1”.)</i-auto></atom-reminder-custom></kw-A>
+		</li><li><bullet>• </bullet> Attach target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> Equipment to target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> creature.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: JujuFei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

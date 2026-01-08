@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		counterspell, anti-scientific; 
+		cf "Negate".
+	time_created: 2025-09-20 15:41:07
+	time_modified: 2025-11-28 12:58:48
+	name: Decohere
+	casting_cost: 1U
+	image: image109.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Counter</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Counter target <kw-A><nospellcheck><key>scientific</key></nospellcheck> spell.<atom-reminder-custom> <i-auto>(Instants, sorceries, artifacts, enchantments, and battles are scientific.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: LightTimeDelay (bandcamp)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

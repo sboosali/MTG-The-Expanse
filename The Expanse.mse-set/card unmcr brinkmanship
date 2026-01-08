@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		kill, asymmetric-wrath, removal, n41; life-pay; small, criminal; 
+		cf "Winds of Abandon".
+	time_created: 2025-10-12 20:22:30
+	time_modified: 2026-01-01 11:48:16
+	name: UN–MCR Brinkmanship
+	casting_cost: 1B
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Destroy</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<i>Nuke Deimos —</i> Destroy target <kw-0><nospellcheck><key>opposing</key></nospellcheck></kw-0> creature.
+		You lose 1 life for each creature destroyed this way.
+		<i>Nuke Mars —</i> <kw-1><nospellcheck><key>Overload <param-cost><sym-auto>5BB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its overload cost. If you do, change “target” in its text to “each”.)</i-auto></atom-reminder-expert></kw-1>
+		Overload only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: The Expanse (S2)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

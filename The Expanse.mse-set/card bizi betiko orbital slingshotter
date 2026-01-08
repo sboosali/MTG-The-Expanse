@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		fun; burn; 
+		small; etb, ltb; performer, criminal; 
+	time_created: 2025-09-20 15:31:01
+	time_modified: 2025-11-16 13:42:35
+	name: Bizi Betiko, <i>Orbital Slingshotter</i>
+	casting_cost: 2R
+	transformation: instant
+	image: image13.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pilot</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Rush</key></nospellcheck><atom-reminder-custom> <i-auto>(During your turn, you may cast this any time you could cast an instant.)</i-auto></atom-reminder-custom></kw-A>
+		When this creature enters, it deals 1 damage to any target.
+		<i>Live Forever —</i> When this creature leaves the battlefield, it deals 3 damage to any target.
+	flavor_text: <i-flavor>“Which puts me at 29 days, seven hours and 13 minutes of <error-spelling:en_US>pura</error-spelling:en_US>, <error-spelling:en_US>unpowered</error-spelling:en_US> flight.”</i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: The Expanse (S)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		altwincon, buildaround; big, token-maker, blocker; 
+	time_created: 2025-10-10 12:00:02
+	time_modified: 2025-12-28 10:04:43
+	name: Dr. Jen Lively
+	casting_cost: 1U
+	image: image178.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Physicist</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Sublime</key></nospellcheck></i-auto></kw-A> — Whenever you cast a spell not from hand, <kw-A><nospellcheck><key>amass <param-name>Aliens</param-name> <param-number>4</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>four</param-number> +1/+1 counters on an Army you control. It’s also an <param-name>Alien</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Alien</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		<i><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Protomolecule</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Quantified — </i>Whenever you cast a spell, if you’ve cast a spell <i-auto>(including that one)</i-auto> from a graveyard, a library, and from exile this turn, you win the game.
+	flavor_text: <i-flavor>The </i>Falcon<i>’s theoretical physicist.</i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: ElenStar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		241, removal, life-drain; ouput-randomness; 
+	time_created: 2025-11-19 15:16:47
+	time_modified: 2026-01-03 11:05:31
+	name: <i>Carne por La Mákina </i>Eros 
+	casting_cost: 3B
+	image: image132.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mercenary</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		This creature enters with your choice of a <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> counter or <kw-a><nospellcheck><key>wither</key></nospellcheck></kw-a> counter on it.
+		When this creature enters, choose any <kw-a><nospellcheck><key>opposing</key></nospellcheck></kw-a> target, then roll a d6. This creature deals X damage to the chosen permanent or player, where X is the result.
+	flavor_text: <i-flavor>“Eros’s new security contract were just gangsters with badges.”</i-flavor>
+	power: 4
+	toughness: 1
+	illustrator: Kim Sison
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		free-rx, counterspell; 
+	time_created: 2025-10-12 20:16:50
+	time_modified: 2026-01-02 09:34:15
+	name: Pashang
+	casting_cost: UU
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Counter</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Sublime</key></nospellcheck></i-auto></kw-A> — This spell costs <sym-auto>UU</sym-auto> less to cast if you own it and cast another spell not from hand this turn.
+		Counter target spell, exiling it instead <i-auto>(if countered this way)</i-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

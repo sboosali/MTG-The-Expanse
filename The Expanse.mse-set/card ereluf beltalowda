@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		remand, rx; hymn; 
+	time_created: 2025-11-19 15:28:50
+	time_modified: 2025-12-11 11:07:49
+	name: Ereluf Beltalowda
+	casting_cost: 1R
+	card_symbol: none
+	image: image110.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Counter</word-list-spell><atom-sep> </atom-sep><word-list-spell>Discard</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Counter target <kw-a><nospellcheck><key>opposing</key></nospellcheck></kw-a> spell.
+		If that spell is countered this way, put it into its owner’s hand instead of their graveyard, then that player discards a card at random.
+	flavor_text: <i-flavor>Miller (to Vargas): “Air is good, don’t you think? So keep those filters clean, a••hole.”</i-flavor>
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-bigtext
+	stylesheet_version: 2025-10-08
+	has_styling: false
+	notes:
+		ok;
+		341; removal, life-drain; diverser, 3-splash; 
+	time_created: 2025-11-19 15:16:47
+	time_modified: 2025-12-23 11:53:27
+	name: Welwala
+	casting_cost: 1W
+	image: image137.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Belter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mercenary</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		<i>Work for Star Helix —</i> Exhaust — <sym-auto>B</sym-auto>, <kw-A><nospellcheck><key>Represent <param-a>an</param-a> <param-one_word>Earther</param-one_word></key></nospellcheck>: Put a +1/+1 counter on this creature and it becomes an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Earther</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> in addition to its other types. When you do, it gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn, then deals damage equal to its power to target player or battle.<atom-reminder-action> <i-auto>(To represent <param-a>an</param-a> <param-one_word>Earther</param-one_word>, choose <param-a>an</param-a> <param-one_word>Earther</param-one_word> you control, reveal <param-a>an</param-a> <param-one_word>Earther</param-one_word> from your hand, or exile <param-a>an</param-a> <param-one_word>Earther</param-one_word> from your graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<i>Work for <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Pinkwater</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> —</i> Exhaust — <sym-auto>2R</sym-auto>, <kw-0><nospellcheck><key>Represent <param-a>a</param-a> <param-one_word>Martian</param-one_word></key></nospellcheck></kw-0>: Put a +1/+1 counter on this creature and it becomes a Martian in addition to its other types. When you do, it deals damage equal to its power to another target creature.
+	flavor_text: <i-flavor>“Their scrip spends, <error-spelling:en_US>copeng</error-spelling:en_US>.”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

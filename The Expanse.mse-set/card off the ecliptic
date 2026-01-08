@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		counterspell, tucking-removal; 
+		cf "Memory Lapse".
+	time_created: 2025-10-12 20:16:50
+	time_modified: 2025-12-03 11:44:39
+	name: Off the Ecliptic
+	casting_cost: 1U
+	image: image126.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell>Counter</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Counter target spell.
+		If countered this way, its owner puts it top of their library instead of their graveyard. Then each player <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>surveils</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> 1.
+	flavor_text: <i-flavor><error-spelling:en_US>Michio</error-spelling:en_US> Pa was superstitious about the uncharted space above and below the plane of the solar system.</i-flavor>
+	illustrator: @AstroPhil
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

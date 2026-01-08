@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		reanim, morbid-reanim; removal, delayed; Nuke
+	time_created: 2025-11-24 08:44:26
+	time_modified: 2025-12-29 08:08:40
+	name: Premature Immunosenescence
+	casting_cost: B
+	image: image177.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: common
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet><i>“Cure” It —</i> Until end of turn, target creature gains “When this creature dies, put <i-auto>(it or another)</i-auto> target creature card in its owner’s graveyard onto the battlefield under your control, except it’s an Alien in addition to its other types.”
+		</li><li><bullet>• </bullet><i>Leave It —</i> Put two time counters on target creature and it gains vanishing. <i-auto>(At the beginning of its controller’s upkeep, they remove a time counter from it. When the last is removed, they sacrifice it.)</i-auto></li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: The Expanse (S3)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

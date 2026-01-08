@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ok;
+		tutor; lobotomy, anti-fetch; 
+	time_created: 2025-10-18 11:44:41
+	time_modified: 2025-11-29 12:34:33
+	name: AO-66
+	casting_cost: 1B
+	image: image112.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Martian</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: Search target opponent’s library for a card, <kw-A><nospellcheck><key>expropriate</key></nospellcheck> it, then they shuffle.<atom-reminder-action> <i-auto>(Exile it face-down. You may look at and cast it from exile if nonland, and may spend mana as though it were of any type to do so.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text:
+		<i-flavor><error-spelling:en_US>MCRN</error-spelling:en_US> Soldier: “Your transponder’s expired. Got drunk and forgot to renew your license, pebble jockey?”<soft-line>
+		</soft-line><error-spelling:en_US>Mateo</error-spelling:en_US> <error-spelling:en_US>Harari</error-spelling:en_US>: “I didn’t have the scrip, <error-spelling:en_US>bosmang</error-spelling:en_US>. Had to replace the [...]”<soft-line>
+		<error-spelling:en_US>MCRN</error-spelling:en_US> Soldier: “Yeah yeah, you <error-spelling:en_US>sk</error-spelling:en_US>•<error-spelling:en_US>nnies</error-spelling:en_US> always have an excuse. When you arrive on Eros, your cargo will be held under lien on until you pay up.”</soft-line></i-flavor>
+	illustrator: The Expanse (S1)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

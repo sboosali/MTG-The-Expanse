@@ -1,0 +1,41 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		blink-engine, long-flicker; 
+		aka "Guanshiyin".
+	time_created: 2025-12-11 12:24:31
+	time_modified: 2026-01-02 10:43:15
+	name: The <i>Guānshìyīn</i>
+	casting_cost: 1U
+	image: image115.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Kindred Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Vehicle</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Whenever you <kw-A><nospellcheck><key>finance</key></nospellcheck> a spell, exile up to one target nonland permanent. At the beginning of the next end step, return that permanent to the battlefield under its owner’s control.<atom-reminder-custom> <i-auto>(Spells cast by spending at least four mana or with mana value 4+ are financed.)</i-auto></atom-reminder-custom></kw-A>
+		Crew—Pay <sym>0</sym>. Activate only if you’ve <kw-0><nospellcheck><key>financed</key></nospellcheck></kw-0> a spell this turn and only once each turn.
+		<kw-1><nospellcheck><key>Accelerate <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-> <i-auto>(You may cast this spell for its accelerate cost any time you could cast an instant. If you do, it can’t block this turn and is sacrificed at the beginning of your next upkeep.)</i-auto></atom-reminder-></kw-1>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Lee Fitzgerald
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 

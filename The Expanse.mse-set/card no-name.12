@@ -1,0 +1,34 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		;
+		reacc; combat-trick, vertical-growth; cheaty, self-yard, if-gravecast; multi-body; 
+		eg "Hyper-Oxygenated Blood". 
+	time_created: 2025-11-14 09:45:14
+	time_modified: 2025-11-14 09:49:07
+	casting_cost: 3G
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Earther</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		When this creature enters, put three +1/+1 counters on another target <kw-a><nospellcheck><key>friendly</key></nospellcheck></kw-a> <kw-A><nospellcheck><key>powered</key></nospellcheck> permanent.<atom-reminder-custom> <i-auto>(Anything with a printed power/toughness is powered.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><i-auto><nospellcheck><key>Subliminal</key></nospellcheck></i-auto></kw-A> — When this creature enters, if it was cast not from hand, create a token copy of it.
+		<kw-1><nospellcheck><key>Accelerate <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck><atom-reminder-> <i-auto>(You may cast this spell for its accelerate cost any time you could cast an instant. If you do, it can’t block this turn and is sacrificed at the beginning of your next upkeep.)</i-auto></atom-reminder-></kw-1>
+		<kw-1><nospellcheck><key>Resuscitate <param-cost><sym-auto>6GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-> <i-auto>(You may cast this permanent from your graveyard for its resuscitate cost. It enters with a finality counter.)</i-auto></atom-reminder-></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
